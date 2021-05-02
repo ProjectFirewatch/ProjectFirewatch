@@ -3,4 +3,5 @@
 ![Firewatch Intro Image](https://firewatch.ml/cdn/Firewatch%20Intro%20Image.jpg)
 <!-- blank line -->
 # The Prologue
-### Well everyone starts with the prologue, now when going through the prologue you can really click any of the options, it won't effect you later.
+You get options and you can pick whatever you want, But during the prologue, you start your 2-day hike up to your tower. When you get up to the tower you turn on your light, then you hear a walkie-talkie going off, saying "Hello two forks tower!". You say Hello to Delilah, who is your boss, you will be spending the rest of your time as a Firewatch with her.
+# Day One
