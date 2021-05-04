@@ -21,6 +21,5 @@ You get options and you can pick whatever you want, But during the prologue, you
 <!-- blank line -->
 ![Firewatch Intro Image](https://firewatch.ml/cdn/pork.jpg)
 <!-- blank line -->
-# Please Report Stupid Spelling Mistakes sophia@sophiatkinson.com
-<!-- blank line -->
 # As of right now Sophia is the only worker on this reop, day 2 transcription coming 5/5/21.
+<!-- blank line -->
