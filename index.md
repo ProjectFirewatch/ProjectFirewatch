@@ -3,7 +3,7 @@
 # I have paused this project until June 2021
 ![Firewatch Intro Image](https://firewatch.ml/cdn/Firewatch%20Intro%20Image.jpg)
 <!-- blank line -->
-[Firewatch Playthrough No Commentary](https://sophiaatkinson.com/sa/video/firewatch.mp4) 2:04 Hours
+[Firewatch Playthrough No Commentary](https://www.youtube.com/watch?v=NGDuoCAu0Rg&t=4552s) 2:04 Hours
 <!-- blank line -->
 # BELOW ARE MAJOR SPOILERS!
 # BELOW ARE MAJOR SPOILERS!
