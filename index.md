@@ -24,3 +24,4 @@ You get options and you can pick whatever you want, But during the prologue, you
 <!-- blank line -->
 # I have paused this project until June 2021
 <!-- blank line -->
+Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.
