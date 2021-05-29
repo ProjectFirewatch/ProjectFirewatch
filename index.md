@@ -1,6 +1,9 @@
 # What is Firewatch?
 ### Firewatch is a single-player first-person mystery set in the Wyoming wilderness, where your only emotional lifeline is the person on the other end of a handheld radio.
 # I have paused this project until June 2021
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSophiaAtkinson%2FFirewatch-Guide&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Site+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Firewatch Intro Image](https://firewatch.ml/cdn/Firewatch%20Intro%20Image.jpg)
 <!-- blank line -->
 [Firewatch Playthrough No Commentary](https://www.youtube.com/watch?v=NGDuoCAu0Rg&t=4552s) 2:04 Hours
