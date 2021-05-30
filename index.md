@@ -11,11 +11,6 @@
 [Firewatch Playthrough No Commentary](https://www.youtube.com/watch?v=NGDuoCAu0Rg&t=4552s) 2:04 Hours
 <!-- blank line -->
 # BELOW ARE MAJOR SPOILERS!
-# BELOW ARE MAJOR SPOILERS!
-# BELOW ARE MAJOR SPOILERS!
-# BELOW ARE MAJOR SPOILERS!
-# BELOW ARE MAJOR SPOILERS!
-# BELOW ARE MAJOR SPOILERS!
 <!-- blank line -->
 # The Prologue
 You get options and you can pick whatever you want, But during the prologue, you start your 2-day hike up to your tower. When you get up to the tower you turn on your light, then you hear a walkie-talkie going off, saying "Hello two forks tower!". You say Hello to Delilah, who is your boss, you will be spending the rest of your time as a Firewatch with her.
