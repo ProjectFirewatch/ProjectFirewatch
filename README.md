@@ -2,5 +2,5 @@
 # I have paused this project until June 2021
 
 ## Planned thing.
-- [ ] Move form Markdown to html
+- [ ] Move from Markdown to html
 - [ ] Finish all the days
