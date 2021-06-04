@@ -1,6 +1,6 @@
 # All Achievements
 ---
-![Good First Day](https://firewatch.ml/cdn/achievements/goodday.jpg)
+![Good First Day](/cdn/achievements/goodday.jpg)
 Good first day.
 Completed Day 1
 
@@ -8,7 +8,7 @@ Completed Day 1
 
 ---
  
-![Back to work](https://firewatch.ml/cdn/achievements/backtowork.png)
+![Back to work](/cdn/achievements/backtowork.png)
 Back to work.
 Completed Day 2
 
@@ -16,7 +16,7 @@ Completed Day 2
 
 ---
  
-![Someone's out here.](https://firewatch.ml/cdn/achievements/someonesouthere.png)
+![Someone's out here.](/cdn/achievements/someonesouthere.png)
 Someone's out here.
 Completed Day 76
 
@@ -24,7 +24,7 @@ Completed Day 76
 
 ---
  
-![Burn the place down.](https://firewatch.ml/cdn/achievements/burntheplacedown.png)
+![Burn the place down.](/cdn/achievements/burntheplacedown.png)
 Burn the place down.
 Completed Day 77
 
@@ -32,7 +32,7 @@ Completed Day 77
 
 ---
  
-![Firewatch](https://firewatch.ml/cdn/achievements/firewatch.png)
+![Firewatch](/cdn/achievements/firewatch.png)
 Firewatch.
 Completed Day 79
 
@@ -40,7 +40,7 @@ Completed Day 79
 
 ---
 
-![Shutter Bug](https://firewatch.ml/cdn/achievements/shutterbug.png)
+![Shutter Bug](/cdn/achievements/shutterbug.png)
 Shutter Bug.
 Filled a disposable camera with photos.
 
@@ -48,7 +48,7 @@ Filled a disposable camera with photos.
 
 ---
  
-![Love Turts](https://firewatch.ml/cdn/achievements/loveturts.png)
+![Love Turts](/cdn/achievements/loveturts.png)
 Love Turts.
 Adopted a turtle as a pet.
 
@@ -59,60 +59,60 @@ Adopted a turtle as a pet.
 
 ### You will eventually pass by a fallen log that you can either hop over or walk around. At the end of the path, look for a turtle sitting on a rock just in front of the rockslide. Pick up the turtle, and report it to Delilah to give it a name. Make sure to press Hold to adopt the turtle as your new pet companion.
 
-![Map Location](https://firewatch.ml/cdn/achievements/jonesylakemap.jpg)
+![Map Location](/cdn/achievements/jonesylakemap.jpg)
 
-![Turt Location](https://firewatch.ml/cdn/achievements/thorofaretrailturt.jpg)
+![Turt Location](/cdn/achievements/thorofaretrailturt.jpg)
 
 ### Jonesy Lake
 ### During Day 1, you will need to travel to Jonesy Lake to inspect some suspicious behavior. Consult your map and head west toward the lake along the lake trails. When you reach the lake, walk along its shoreline to the north. Keep an eye out for yellow supply cache 305. Open the cache and copy the map information to update your map. Continue a few feet north of the supply cache and look for a flat rock beneath a tree, close to the lake. With any luck, there may be a turtle sitting atop the rock for you to befriend.
 
-![Map Location](https://firewatch.ml/cdn/achievements/thorofaretrailmap.jpg)
+![Map Location](/cdn/achievements/thorofaretrailmap.jpg)
 
-![Turt](https://firewatch.ml/cdn/achievements/turtatjonesylake.jpg)
+![Turt](/cdn/achievements/turtatjonesylake.jpg)
 
 ### Beartooth Point
 ### During Day 2, you must travel north toward Beartooth Point to inspect a communication line. The trails will diverge into several winding paths, as shown in the map image below. Use the nearby telephone line as your guide through the valley.
 
-![Map Location](https://firewatch.ml/cdn/achievements/beartoothpointmap.jpg)
+![Map Location](/cdn/achievements/beartoothpointmap.jpg)
 
-![Turt](https://firewatch.ml/cdn/achievements/beartoothpointturt.jpg)
+![Turt](/cdn/achievements/beartoothpointturt.jpg)
 
 ---
  
-![The Life and Times of Raccoon Carter](https://firewatch.ml/cdn/achievements/thelifeandtimesofraccooncarter.png)
+![The Life and Times of Raccoon Carter](/cdn/achievements/thelifeandtimesofraccooncarter.png)
 The Life and Times of Raccoon Carter.
 Got attacked by a raccoon; probably didn't get rabies.
 
 •  Start a free roam game and go to the location marked on the map. Enter the cabin where the arrow is pointing and go down the stairs. Open the stove and a raccoon will jump out and the achievement will unlock.
 
-![Map 1](https://firewatch.ml/cdn/achievements/2438900192_preview_UhPAbZJ.jpg)
+![Map 1](/cdn/achievements/2438900192_preview_UhPAbZJ.jpg)
 
 •  This can be completed as early as Day 76. When you start Day 76, head north toward Beartooth Point. About halfway there (between the words "Thorofare Trail" and "Telephone"), the trail splits once and then again. After the split, look for an old outhouse that is falling apart (it contains the lyrics to Ol' Shoshone inside). From the outhouse, head east and look for an old cabin that is falling apart. Inside, go into the basement and open the stove. A raccoon should jump out and the achievement will unlock.
 
-![Map 2](https://firewatch.ml/cdn/achievements/2438900192_preview_4208-001.jpg)
-![Raccoon](https://firewatch.ml/cdn/achievements/2438900192_preview_racoon.jpg)
+![Map 2](/cdn/achievements/2438900192_preview_4208-001.jpg)
+![Raccoon](/cdn/achievements/2438900192_preview_racoon.jpg)
 
 ---
  
-![Bee Plot](https://firewatch.ml/cdn/achievements/beeplot.png)
+![Bee Plot](/cdn/achievements/beeplot.png)
 Bee Plot.
 Got stung by a bee. It happens.
 
 • Start a free roam game and make sure you bring your climbing gear and the axe with you.
 Go to the area marked on the map and open the gate. Directly in front of you is a small box thing you can open. Open it and a bee will fly out and sting you and the achievement will unlock. 
 
-![Bee Plot](https://firewatch.ml/cdn/achievements/2438900192_preview_wapiti.jpg)
+![Bee Plot](/cdn/achievements/2438900192_preview_wapiti.jpg)
 
 ---
  
-![Ol' Shoshone](https://firewatch.ml/cdn/achievements/olshoshone.png)
+![Ol' Shoshone](/cdn/achievements/olshoshone.png)
 Ol' Shoshone.
 Listened to the tape of "Ol' Shoshone." Cavorted among the aspens.
 
 •  Start a free roam game. Make sure you take the axe with you from the lookout.
 Go to the area marked on the map and clear out the bushes where the arrow is pointing. Continue through and you will see a chair and a bunch of junk. Pick up the tape and the achievement should pop.
 
-![Ol' Shoshone](https://firewatch.ml/cdn/achievements/2438900192_preview_shoshone.jpg)
+![Ol' Shoshone](/cdn/achievements/2438900192_preview_shoshone.jpg)
 
 
 ---
