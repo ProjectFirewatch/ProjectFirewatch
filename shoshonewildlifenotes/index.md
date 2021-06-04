@@ -14,7 +14,7 @@ The animal lists below contain location names which may be spoilers. The map doe
 
 ---
  
- # Bear
+# Bear
  ![Bear Tree](https://firewatch.ml/cdn/shoshonewildlifenotes/631422921_preview_bear-tree.png)
  
  I'd read that both Black Bears (Ursus americanus) and Grizzly Bears (Ursus arctos) can be found in the Shoshone National Forest, and I was anxious about the idea of encountering either during my stay. For better or worse, I only spotted signs of their presence.
