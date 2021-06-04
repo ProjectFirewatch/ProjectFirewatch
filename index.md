@@ -13,9 +13,9 @@
 ---
 # Table of contents
 
-## [Achievements](https://ptb.firewatch.ml/achievements/)
+## [Achievements](https://firewatch.ml/achievements/)
 
-## [Game Transcription](https://ptb.firewatch.ml/transcription/)
+## [Game Transcription](https://firewatch.ml/transcription/)
 ---
 
 Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.
