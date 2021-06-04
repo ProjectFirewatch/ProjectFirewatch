@@ -8,7 +8,7 @@ You get options and you can pick whatever you want, But during the prologue, you
 
 ---
 
-![Firewatch Intro Image](https://firewatch.ml/cdn/arch.jpg)
+![Firewatch Intro Image](/cdn/arch.jpg)
 
 ---
 
@@ -17,7 +17,7 @@ You get options and you can pick whatever you want, But during the prologue, you
  
 ---
 
-![Firewatch Intro Image](https://firewatch.ml/cdn/pork.jpg)
+![Firewatch Intro Image](/cdn/pork.jpg)
 
 ---
 
