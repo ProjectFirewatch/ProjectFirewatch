@@ -14,7 +14,7 @@
 
 ---
  
-![Firewatch Intro Image](https://firewatch.ml/cdn/Firewatch%20Intro%20Image.jpg)
+![Firewatch Intro Image](/cdn/Firewatch%20Intro%20Image.jpg)
 
 ---
  
@@ -24,11 +24,11 @@
  
 # Table of contents
 
-## [Achievements](https://firewatch.ml/achievements/)
+## [Achievements](/achievements/)
 
-## [Shoshone Wildlife Notes](https://firewatch.ml/shoshonewildlifenotes/)
+## [Shoshone Wildlife Notes](/shoshonewildlifenotes/)
 
-## [Game Transcription (In the works)](https://firewatch.ml/transcription/)
+## [Game Transcription (In the works)](/transcription/)
 
 
 ---
