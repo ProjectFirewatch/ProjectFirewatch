@@ -3,6 +3,10 @@
 ## want to contribute? Fork the project then do a pull request.
 ![Guide](https://raw.githubusercontent.com/SophiaAtkinson/SophiaAtkinson/main/cdn/contribute.PNG)
 
+## Contact Email
+
+### [projectfirewatch@gmail.com](mailto:projectfirewatch@gmail.com)
+
 ## Planned thing.
 - [ ] Move from Markdown to html
 - [ ] Finish all the days
