@@ -26,9 +26,10 @@
 
 ## [Achievements](https://firewatch.ml/achievements/)
 
-## [Game Transcription](https://firewatch.ml/transcription/)
-
 ## [Shoshone Wildlife Notes](https://firewatch.ml/shoshonewildlifenotes/)
+
+## [Game Transcription (In the works)](https://firewatch.ml/transcription/)
+
 
 ---
 
