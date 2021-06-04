@@ -1,34 +1,44 @@
 # All Achievements
-
+---
 ![Good First Day](https://firewatch.ml/cdn/achievements/goodday.jpg)
 Good first day.
 Completed Day 1
 
 •  Story related and cannot be missed. Complete Day 1 of the game to unlock this achievement.
 
+---
+ 
 ![Back to work](https://firewatch.ml/cdn/achievements/backtowork.png)
 Back to work.
 Completed Day 2
 
 • Story related and cannot be missed. Complete Day 2 of the game to unlock this achievement.
 
+---
+ 
 ![Someone's out here.](https://firewatch.ml/cdn/achievements/someonesouthere.png)
 Someone's out here.
 Completed Day 76
 
 • Story related and cannot be missed. Complete Day 76 of the game to unlock this achievement. ⠀⠀
 
+---
+ 
 ![Burn the place down.](https://firewatch.ml/cdn/achievements/burntheplacedown.png)
 Burn the place down.
 Completed Day 77
 
 •  Story related and cannot be missed. Complete Day 77 of the game to unlock this achievement.
 
+---
+ 
 ![Firewatch](https://firewatch.ml/cdn/achievements/firewatch.png)
 Firewatch.
 Completed Day 79
 
-•  Story related and cannot be missed. Complete Day 79 of the game to unlock this achievement. ⠀⠀
+•  Story related and cannot be missed. Complete Day 79 of the game to unlock this achievement.
+
+---
 
 ![Shutter Bug](https://firewatch.ml/cdn/achievements/shutterbug.png)
 Shutter Bug.
@@ -36,6 +46,8 @@ Filled a disposable camera with photos.
 
 • This can be completed as early as Day 2. After finding the downed line and heading down the path (headed toward cache 241), you will see a backpack hanging on a tree. Knock it down and grab the items in it. One of the items is a disposable camera. Use up the remaining pictures to unlock the achievement.
 
+---
+ 
 ![Love Turts](https://firewatch.ml/cdn/achievements/loveturts.png)
 Love Turts.
 Adopted a turtle as a pet.
@@ -65,6 +77,8 @@ Adopted a turtle as a pet.
 
 ![Turt](https://firewatch.ml/cdn/achievements/beartoothpointturt.jpg)
 
+---
+ 
 ![The Life and Times of Raccoon Carter](https://firewatch.ml/cdn/achievements/thelifeandtimesofraccooncarter.png)
 The Life and Times of Raccoon Carter.
 Got attacked by a raccoon; probably didn't get rabies.
@@ -78,6 +92,8 @@ Got attacked by a raccoon; probably didn't get rabies.
 ![Map 2](https://firewatch.ml/cdn/achievements/2438900192_preview_4208-001.jpg)
 ![Raccoon](https://firewatch.ml/cdn/achievements/2438900192_preview_racoon.jpg)
 
+---
+ 
 ![Bee Plot](https://firewatch.ml/cdn/achievements/beeplot.png)
 Bee Plot.
 Got stung by a bee. It happens.
@@ -87,6 +103,8 @@ Go to the area marked on the map and open the gate. Directly in front of you is 
 
 ![Bee Plot](https://firewatch.ml/cdn/achievements/2438900192_preview_wapiti.jpg)
 
+---
+ 
 ![Ol' Shoshone](https://firewatch.ml/cdn/achievements/olshoshone.png)
 Ol' Shoshone.
 Listened to the tape of "Ol' Shoshone." Cavorted among the aspens.
@@ -97,7 +115,21 @@ Go to the area marked on the map and clear out the bushes where the arrow is poi
 ![Ol' Shoshone](https://firewatch.ml/cdn/achievements/2438900192_preview_shoshone.jpg)
 
 
+---
+ 
+# Credits
+https://truesteamachievements.com/
 
+https://www.xboxachievements.com/
 
+https://astats.astats.nl
+
+https://www.usgamer.net/
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2438900192
+
+---
+ 
+*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.*
 
 
