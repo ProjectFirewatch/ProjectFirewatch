@@ -1,4 +1,5 @@
-# A guide to play firewatch, and a day by day transcription.
+# A project deticated to the game Firewatch by Campo Santo (Now defunct: Sold to valvesoftware)
+
 
 ## Planned thing.
 - [ ] Move from Markdown to html
