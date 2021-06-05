@@ -1,4 +1,4 @@
-# Firewatch Guide
+# Firewatch.ml
 
 ---
  
