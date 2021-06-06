@@ -54,24 +54,24 @@ Adopted a turtle as a pet.
 
 •  In Firewatch, turtles can be found in several locations throughout the wilderness. I listed a few of these locations below if you wish to find a turtle pet of your own. However, keep in mind that a turtle will not always be present at the locations listed below. These are just some of the common locations that players have found their own turtle companions. Once you find a turtle, make sure to report it to Delilah and adopt it to bring it with you.
 
-### Thorofare Trail
-### The first location you can check for a turtle is along the Thorofare Trail. Starting at the Two Forks Lookout tower, head southeast along a trail leading away from the bottom of the tower stairs. Before the trail curves to the left, look for an opening in the fence leading to another trail heading east. Continue down this trail.
+Thorofare Trail
+The first location you can check for a turtle is along the Thorofare Trail. Starting at the Two Forks Lookout tower, head southeast along a trail leading away from the bottom of the tower stairs. Before the trail curves to the left, look for an opening in the fence leading to another trail heading east. Continue down this trail.
 
-### You will eventually pass by a fallen log that you can either hop over or walk around. At the end of the path, look for a turtle sitting on a rock just in front of the rockslide. Pick up the turtle, and report it to Delilah to give it a name. Make sure to press Hold to adopt the turtle as your new pet companion.
+You will eventually pass by a fallen log that you can either hop over or walk around. At the end of the path, look for a turtle sitting on a rock just in front of the rockslide. Pick up the turtle, and report it to Delilah to give it a name. Make sure to press Hold to adopt the turtle as your new pet companion.
 
 ![Map Location](/cdn/achievements/jonesylakemap.jpg)
 
 ![Turt Location](/cdn/achievements/thorofaretrailturt.jpg)
 
-### Jonesy Lake
-### During Day 1, you will need to travel to Jonesy Lake to inspect some suspicious behavior. Consult your map and head west toward the lake along the lake trails. When you reach the lake, walk along its shoreline to the north. Keep an eye out for yellow supply cache 305. Open the cache and copy the map information to update your map. Continue a few feet north of the supply cache and look for a flat rock beneath a tree, close to the lake. With any luck, there may be a turtle sitting atop the rock for you to befriend.
+Jonesy Lake
+During Day 1, you will need to travel to Jonesy Lake to inspect some suspicious behavior. Consult your map and head west toward the lake along the lake trails. When you reach the lake, walk along its shoreline to the north. Keep an eye out for yellow supply cache 305. Open the cache and copy the map information to update your map. Continue a few feet north of the supply cache and look for a flat rock beneath a tree, close to the lake. With any luck, there may be a turtle sitting atop the rock for you to befriend.
 
 ![Map Location](/cdn/achievements/thorofaretrailmap.jpg)
 
 ![Turt](/cdn/achievements/turtatjonesylake.jpg)
 
-### Beartooth Point
-### During Day 2, you must travel north toward Beartooth Point to inspect a communication line. The trails will diverge into several winding paths, as shown in the map image below. Use the nearby telephone line as your guide through the valley.
+Beartooth Point
+During Day 2, you must travel north toward Beartooth Point to inspect a communication line. The trails will diverge into several winding paths, as shown in the map image below. Use the nearby telephone line as your guide through the valley.
 
 ![Map Location](/cdn/achievements/beartoothpointmap.jpg)
 
