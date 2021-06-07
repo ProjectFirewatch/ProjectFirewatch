@@ -27,3 +27,6 @@ Jane Ng
 
 Credits [Wikipedia](https://en.wikipedia.org/wiki/Campo_Santo_(company))
 
+---
+
+*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.*
