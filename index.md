@@ -23,6 +23,8 @@
 
 ### [Game Transcription (In the works)](/transcription/)
 
+### [Misc Info](/info/)
+
 ---
 
 ![Firewatch Intro Image](/cdn/20200701135654_1.jpg)
