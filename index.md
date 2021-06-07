@@ -14,7 +14,7 @@
 
 ---
  
-![Firewatch Intro Image](/cdn/Firewatch%20Intro%20Image.jpg)
+![Firewatch Intro Image](/cdn/20200701135654_1.jpg)
 
 ---
  
