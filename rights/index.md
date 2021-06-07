@@ -682,3 +682,7 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+---
+
+*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.
