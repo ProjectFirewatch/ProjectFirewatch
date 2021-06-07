@@ -7,7 +7,7 @@
 
 ### [projectfirewatch@gmail.com](mailto:projectfirewatch@gmail.com)
 
-## Planned thing.
+## Planned things.
 Moved to https://github.com/users/SophiaAtkinson/projects/3
 
 
