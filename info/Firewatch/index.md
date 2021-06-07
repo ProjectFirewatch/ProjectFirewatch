@@ -72,4 +72,4 @@ Ryan McCaffrey at IGN hailed the sense of realism elicited by the setting, despi
 
 ---
 
-*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.
+*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.*
