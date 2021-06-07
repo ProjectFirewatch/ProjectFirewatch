@@ -1,1 +1,1 @@
-# Info about firewatch
+# Info about Firewatch
