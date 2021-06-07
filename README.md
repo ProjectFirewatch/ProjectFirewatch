@@ -8,5 +8,7 @@
 ### [projectfirewatch@gmail.com](mailto:projectfirewatch@gmail.com)
 
 ## Planned thing.
-- [ ] Move from Markdown to html
-- [ ] Finish all the days
+Moved to https://github.com/users/SophiaAtkinson/projects/3
+
+
+*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.*
