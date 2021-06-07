@@ -4,7 +4,9 @@
 
 ## Table Of Contents
 
-[Campo Santo](/info/camposanto)
+### [Campo Santo](/info/camposanto)
+
+### [Firewatch](/info/Firewatch)
 
 ---
 
