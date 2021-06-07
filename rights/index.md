@@ -685,4 +685,4 @@ Public License instead of this License.  But first, please read
 
 ---
 
-*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.
+*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.*
