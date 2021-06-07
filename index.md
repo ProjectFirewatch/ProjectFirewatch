@@ -14,6 +14,17 @@
 
 ---
  
+ 
+ ## Table of contents
+
+### [Achievements](/achievements/)
+
+### [Shoshone Wildlife Notes](/shoshonewildlifenotes/)
+
+### [Game Transcription (In the works)](/transcription/)
+
+---
+
 ![Firewatch Intro Image](/cdn/20200701135654_1.jpg)
 
 ---
@@ -21,14 +32,12 @@
 [Firewatch Playthrough No Commentary](https://www.youtube.com/watch?v=NGDuoCAu0Rg&t=4552s) 2:04 Hours
 
 ---
- 
-# Table of contents
 
-## [Achievements](/achievements/)
 
-## [Shoshone Wildlife Notes](/shoshonewildlifenotes/)
-
-## [Game Transcription (In the works)](/transcription/)
+![Firewatch Photo](/cdn/20200701135637_1.jpg)
+![Firewatch Photo](/cdn/20200701135646_1.jpg)
+![Firewatch Photo](/cdn/20201109190843_1.jpg)
+![Firewatch Photo](/cdn/20201109191235_1.jpg)
 
 
 ---
