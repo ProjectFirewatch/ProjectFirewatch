@@ -19,8 +19,11 @@
 Key People 	
 -
 Sean Vanaman
+
 Jake Rodkin
+
 Chris Remo
+
 Jane Ng
 
 ---
