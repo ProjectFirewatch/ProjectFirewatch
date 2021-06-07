@@ -4,7 +4,7 @@
 
 ## Table Of Contents
 
-[Campo Santo](/camposanto)
+[Campo Santo](/info/camposanto)
 
 ---
 
