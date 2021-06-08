@@ -31,7 +31,7 @@
 
 ---
  
-[Firewatch Playthrough No Commentary](https://www.youtube.com/watch?v=NGDuoCAu0Rg&t=4552s) 2:04 Hours
+[Firewatch Playthrough No Commentary]() Coming back soon: Removed due to DMCA
 
 ---
 
