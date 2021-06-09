@@ -14,9 +14,6 @@
 
 ---
 
-# Project moving to https://github.com/ProjectFirewatch
-
----
  
 ## Table of contents
 
