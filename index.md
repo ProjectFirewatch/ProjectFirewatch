@@ -23,7 +23,10 @@
 
 ### [Game Transcription (In the works)](/transcription/)
 
+### [Audio Tour Transcription](http://www.firewatchgame.com/media/Firewatch%20Audio%20Tour%201.0.pdf)
+
 ### [Misc Info](/info/)
+
 
 ---
 
