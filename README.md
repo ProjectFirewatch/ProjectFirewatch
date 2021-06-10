@@ -20,11 +20,11 @@
 ---
  
 # Contributers!
-### 1. [Sophia](SophiaAtkinson) Organization  Owner
+### 1. [Sophia](SophiaAtkinson) Project  Owner
 
 ---
  
-Moving to [Project Firewatch](https://github.com/SophiaAtkinson) Soon
+Moving to [Project Firewatch](https://github.com/ProjectFirewatch) Soon
 
 ---
  
