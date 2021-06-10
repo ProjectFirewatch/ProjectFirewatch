@@ -2,7 +2,15 @@
 
 ## This project is an open-source and community-run, all of the copywritten content on this site belongs to its original owners.
 
-#### this project has the following LICENSE
+---
+
+
+## I own content that is on this page and I want it removed. Well that sucks but go ahead and email us with the email in the ReadME.md.
+
+---
+
+
+### this project has the following LICENSE
 
 
 ---
