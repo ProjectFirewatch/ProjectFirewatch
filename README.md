@@ -1,5 +1,6 @@
 # A project deticated to the game Firewatch by Campo Santo (Now defunct: Sold to valvesoftware) Campo santo not this repo
 
+# Moving to [Project Firewatch](https://github.com/ProjectFirewatch) Soon
 ---
  
 ## want to contribute? Fork the project then do a pull request.
@@ -24,8 +25,5 @@
 
 ---
  
-Moving to [Project Firewatch](https://github.com/ProjectFirewatch) Soon
 
----
- 
 *Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.*
