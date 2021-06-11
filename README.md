@@ -21,7 +21,7 @@
 ---
  
 # Contributers!
-### 1. [Sophia](SophiaAtkinson) Project  Owner
+### 1. [Sophia](https://github.com/SophiaAtkinson) Project  Owner
 
 ---
  
