@@ -1,4 +1,4 @@
-# A project deticated to the game Firewatch by Campo Santo (Now defunct: Sold to valvesoftware) Campo santo not this repo
+# A project deticated to the game Firewatch by Campo Santo (Now defunct: Sold to valvesoftware)
 
 # Moving to [Project Firewatch](https://github.com/ProjectFirewatch) Soon
 ---
