@@ -8,6 +8,8 @@
 
 ### [Firewatch](/info/Firewatch)
 
+### [No, Thank you.](/info/thanks)
+
 ---
 
 *Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.*
