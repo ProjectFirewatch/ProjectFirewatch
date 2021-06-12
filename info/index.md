@@ -1,5 +1,7 @@
 # Info Page 
 
+### [Home](/)  
+
 ---
 
 ## Table Of Contents
