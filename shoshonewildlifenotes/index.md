@@ -2,6 +2,8 @@ Before continuing, be sure to play the game!
 
 The animal lists below contain location names which may be spoilers. The map doesn't list location names, but may spoil hidden surprises and plot points.
 
+### [Home](/)  
+
 ---
  
 # Wildlife Map
