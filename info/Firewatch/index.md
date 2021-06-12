@@ -1,6 +1,8 @@
 # Firewatch Wiki
 
-### [Home](/)  
+### [Home](/)
+
+---
 
 Firewatch is an adventure game developed by Campo Santo and published by the developer in partnership with Panic. The game was released in February 2016 for Microsoft Windows, OS X, Linux, and PlayStation 4, for Xbox One in September 2016, and for Nintendo Switch in December 2018.
 
