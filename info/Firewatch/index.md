@@ -1,5 +1,7 @@
 # Firewatch Wiki
 
+### [Home](/)  
+
 Firewatch is an adventure game developed by Campo Santo and published by the developer in partnership with Panic. The game was released in February 2016 for Microsoft Windows, OS X, Linux, and PlayStation 4, for Xbox One in September 2016, and for Nintendo Switch in December 2018.
 
 The story follows a fire lookout named Henry in the Shoshone National Forest, a year after the Yellowstone fires of 1988. A month after his first day at work, strange things begin happening to him and his supervisor Delilah, which connects to a conspired mystery that happened years ago. Henry interacts with Delilah using a walkie-talkie, with the player choosing from dialog options to communicate. His exchanges with Delilah inform the process by which their relationship is developed. The game was directed by Olly Moss and Sean Vanaman, written by Chris Remo, Jake Rodkin, Moss and Vanaman, and produced by Gabe McGill and artist Jane Ng. The game's environment was modelled by Ng, based on a single painting by Moss. The design draws inspiration from New Deal advertisements by the National Park Service and field research conducted in Yosemite National Park.
