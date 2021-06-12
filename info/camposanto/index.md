@@ -1,7 +1,11 @@
 ![Campo Santo Logo](https://firewatch.ml/cdn/info/camposanto/logo.png)
 
 ---
-
+ 
+### [Home](/)  
+ 
+---
+ 
 ### Campo Santo Productions LLC was founded September 2013 in Bellevue, Washington by Sean Vanaman, Jake Rodkin, Nels Anderson, and Olly Moss.
 
 ### In August 2014, a game demo of Firewatch was released at PAX West, The game was released for Microsoft Windows, PlayStation 4, OS X, Linux, and Xbox One in late 2016.
