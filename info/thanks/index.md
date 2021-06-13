@@ -18,4 +18,4 @@ I am at a loss for words 1,000,000 page views... from the bottom of my heart, th
 ---
 
 
-*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.*
+*projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
