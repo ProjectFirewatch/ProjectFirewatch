@@ -131,3 +131,7 @@ As soon as it saw me, it scampered off, never to be seen again - or so I thought
 
 # Credits
 [Cheeseness](https://steamcommunity.com/sharedfiles/filedetails/?id=631422921)
+
+---
+
+*projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
