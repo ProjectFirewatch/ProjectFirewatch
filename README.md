@@ -1,6 +1,5 @@
 # A project deticated to the game Firewatch by Campo Santo (Now defunct: Sold to valvesoftware)
 
-# Moving to [Project Firewatch](https://github.com/ProjectFirewatch) 6/17
 ---
  
 ## want to contribute? Fork the project then do a pull request.
