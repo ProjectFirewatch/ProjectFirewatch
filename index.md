@@ -27,6 +27,8 @@
 
 ### [Misc Info](/info/)
 
+### [Firewatch Playthrough No Commentary](https://www.youtube.com/watch?v=bzihcKAMS9c)
+
 
 ---
 
@@ -34,14 +36,19 @@
 
 ---
  
-[Firewatch Playthrough No Commentary](https://www.youtube.com/watch?v=bzihcKAMS9c)
-
----
-
 
 ![Firewatch Photo](/cdn/20200701135637_1.jpg)
+
+---
+ 
 ![Firewatch Photo](/cdn/20200701135646_1.jpg)
+
+---
+ 
 ![Firewatch Photo](/cdn/20201109190843_1.jpg)
+
+---
+ 
 ![Firewatch Photo](/cdn/20201109191235_1.jpg)
 
 
