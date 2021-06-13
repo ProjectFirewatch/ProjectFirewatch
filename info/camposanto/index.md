@@ -1,4 +1,4 @@
-![Campo Santo Logo](https://firewatch.ml/cdn/info/camposanto/logo.png)
+![Campo Santo Logo](/cdn/info/camposanto/logo.png)
 
 ---
  
@@ -36,4 +36,4 @@ Credits [Wikipedia](https://en.wikipedia.org/wiki/Campo_Santo_(company))
 
 ---
 
-*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.*
+*projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
