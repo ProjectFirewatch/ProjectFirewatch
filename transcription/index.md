@@ -25,4 +25,4 @@ You get options and you can pick whatever you want, But during the prologue, you
 
 ---
 
-*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.*
+*projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
