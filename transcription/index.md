@@ -1,3 +1,5 @@
+# As of 7/2/2021 This page is no longer being worked on by staff, To people that would like to work on it feel free to.
+
 # BELOW ARE MAJOR SPOILERS!
 
 ---
