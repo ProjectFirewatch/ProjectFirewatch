@@ -28,7 +28,7 @@
 
 ### [Shoshone Wildlife Notes](/shoshonewildlifenotes/)
 
-### [Game Transcription (In the works)](/transcription/)
+### [Game Transcription (Click For Staff Notes)](/transcription/)
 
 ### [Audio Tour Transcription](https://drive.google.com/file/d/1NmEo4mVb5l_jdKt4KgtVN135Hw18mStz/view?usp=sharing)
 
