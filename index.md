@@ -10,7 +10,7 @@
 
 ---
  
-# Fire danger is through the fucking roof, There are warning signs but that doesn't fix plane stupid. Stay safe this summer.
+# Fire danger is through the fucking roof, There are warning signs but that doesn't fix plain stupid. Stay safe this summer.
 
 ![Forest Byrnes](/cdn/byrnes256x256.png)
 
