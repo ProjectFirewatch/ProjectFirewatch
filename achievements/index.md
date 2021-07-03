@@ -120,18 +120,19 @@ Go to the area marked on the map and clear out the bushes where the arrow is poi
 ---
  
 # Credits
-https://truesteamachievements.com/
 
-https://www.xboxachievements.com/
+[Guide By TORGADDON](https://steamcommunity.com/sharedfiles/filedetails/?id=2438900192)
 
-https://astats.astats.nl
+[truesteamachievements.com](https://truesteamachievements.com/)
 
-https://www.usgamer.net/
+[xboxachievements.com](www.xboxachievements.com/)
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2438900192
+[astats.astats.nl](https://astats.astats.nl)
+
+[usgamer.net](https://www.usgamer.net/)
 
 ---
  
-*Firewatch.ml is a community website and is not affiliated with Firewatch or Campo Santo.*
+*projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
 
 
