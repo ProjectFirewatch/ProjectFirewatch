@@ -4,7 +4,6 @@
 
 ![0](/gallery/sophia/i/1_photo_2.jpg)
 
-
 ![0](/gallery/sophia/i/1_photo_5.jpg)
 
 ![0](/gallery/sophia/i/1_photo_6.jpg)
@@ -100,8 +99,6 @@
 ![0](/gallery/sophia/i/4_photo_10.jpg)
 
 ![0](/gallery/sophia/i/4_photo_11.jpg)
-
-![0](/gallery/sophia/i/4_photo_12.jpg)
 
 ![0](/gallery/sophia/i/4_photo_12.jpg)
 
