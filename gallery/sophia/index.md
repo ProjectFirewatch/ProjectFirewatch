@@ -1,5 +1,11 @@
 # Every Firewatch photo from Sophia
 
+---
+
+### [Home](/)
+
+---
+
 ![0](/gallery/sophia/i/1_photo_1.jpg)
 
 ![0](/gallery/sophia/i/1_photo_2.jpg)
