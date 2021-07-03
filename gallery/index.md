@@ -4,6 +4,10 @@ A template will be coming soon.
 
 ---
 
+### [Home](/)
+
+---
+
 # Community Firewatch Photos
 
 ---
