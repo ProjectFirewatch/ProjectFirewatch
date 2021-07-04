@@ -24,3 +24,5 @@ I was gone for about a week and I came back to almost 3.1 million page views, I 
 ---
 
 *projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
+
+*Firewatch and the Firewatch logos are trademarks of Campo Santo. All other trademarks are property of their respective owners.*
