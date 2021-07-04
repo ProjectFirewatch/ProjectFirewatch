@@ -1,4 +1,4 @@
-# Project info/news and more coming soon.
+# Project info/news and more
 
 # July Change Log
 
