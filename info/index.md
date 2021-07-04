@@ -10,6 +10,8 @@
 
 ### [Firewatch](/info/Firewatch)
 
+### [Project News/Info](/info/project)
+
 ### [No, Thank you.](/info/thanks)
 
 ---
