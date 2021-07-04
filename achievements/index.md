@@ -135,4 +135,5 @@ Go to the area marked on the map and clear out the bushes where the arrow is poi
  
 *projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
 
+*Firewatch and the Firewatch logos are trademarks of Campo Santo. All other trademarks are property of their respective owners.*
 
