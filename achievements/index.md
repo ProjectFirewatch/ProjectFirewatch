@@ -125,7 +125,7 @@ Go to the area marked on the map and clear out the bushes where the arrow is poi
 
 [truesteamachievements.com](https://truesteamachievements.com/)
 
-[xboxachievements.com](www.xboxachievements.com/)
+[xboxachievements.com](https://www.xboxachievements.com/)
 
 [astats.astats.nl](https://astats.astats.nl)
 
