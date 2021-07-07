@@ -1,6 +1,3 @@
-<link rel="shortcut icon" href="/cdn/fw.png"" />
-
-
 # projectfirewatch.com
 
 ---
