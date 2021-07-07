@@ -80,3 +80,99 @@ but who would believe him?
 
 ---
 
+# Jane Eyre
+
+- Author: Charlotte Brontë
+- Publisher:
+- RRP:
+- Last checked out to: Cache 307
+
+---
+
+# Lucien's Gambit, Book XVI of the Chronicles of Krindle
+
+- Author: Timothy Howell
+- Publisher: Red Panda Press
+- RRP: $2.50
+- Last checked out to: Thorofare Tower
+
+>The thrilling continuation of the bestselling series of novels that have gripped the world!
+
+>When we last joined our hero he had been separated from his allies by the evil Venomfang, whose blot to conquer all of the mortal realms is nearing fruition.
+
+>Can Lucien and Lux reunite the shards of truth to free Krindle from his entrapment?
+
+---
+
+# The Patriots
+
+- Author: Donald Anderson
+- Publisher: Red Panda Crime
+- RRP: $2.50
+- Last checked out to: Two Forks Lookout
+
+>It begins and ends deep in Red Russia, where they sent him to spy, where they urdged to him to kill, and where they learned that he wasn't The Patriot they had hoped.
+
+>Sent to plant the poison pill of espionage inside the dinner of the communist bear, Ray Freidman would return to his government's doorstep disgraced and disowned by his keepers. Forced back into civilian life as a comptroller, but with the intelligence and super-skills bestowed upon him by the United Stated government, Ray struggles to fade into obscurity. That is, until a janitor named Claudell Williams reveals that he too was there the night in Stalingrad -- the night everything went wrong and the truth was made clear.
+
+>Can two men ever return to civilian life in possession of information that will destroy both themselves and a presidency? ...Will the government even let them?
+
+---
+
+# The Singular Mind
+
+- Author: Dr. Jonas Allard
+- Publisher: Red Panda Press
+- RRP: $6.99 (£4.99)
+- Last checked out to: Two Forks Lookout
+
+>DON'T MIND YOUR MIND ALONE
+
+>Have you considered the untapped power of your own mind? • Do you often ponder the unexplanable? • Do you find yourself seeing that which is not there? • Do you yeard to explore the labyrinth of your own psyche?
+
+>Join Jonas Allard, Ph.D.–renowned psychoanalyst and Rhodes Chair of Psychology at Loyola Marymount–as he explores the power of the solitary mind. This incisive but accessible treatise on the power of an isolated psyche unclogs the avenues of our day-to-day thoughts, helping us unlock the psychological potential burried deep within ourselves.
+
+>The Seattle Enterprise: "Readers will be enraptured by this powerful exploration of Dr. Allard's hyper-vigilant methods of neuro-isolation."
+
+>San Francisco Review of Books: "The quintessential road map of mental enlightenment. ... Dr Allard is a wizard."
+
+---
+
+# Steven's Room
+
+>Author: Howard Crothers
+>Publisher: Hart
+>RRP: $2.50
+>Last checked out to: Ned Goodwin?
+
+>Steven's Room
+by Howard Cruthers
+
+>Art and Ainsley locke. They're affectionate parents to the a sweet child, passionate lovers in an ideal marriage, and up-and-coming real estate agents making a name for themselves as Whistle Creek's new power couple. And they've just bought their own dream home. Everything is perfect for the Locke family.
+
+>But when their son Steven is crushed in the backyard by an old oak tree, his empty bedroom becomes irresitibly alluring to the mourning parents. Fears, sorrows, dreams, fantasies, and more al emanate from Steven's room.
+
+>But what if Steven were to return? And what if he wants his room back? And what if Steven wasn't so sweet anymore...
+
+>Praise for Howard Cruthers
+"He's perfected the fine art of terror." - THE MIAMI DAY TRIBUNE
+
+>"Cruthers is a sorcerer... of human suffering... and suspense. ...Can't get enough." - PHILADELPHIA REGISTER-CONSTITUTION
+
+---
+
+# Wizards & Wyverns
+
+- Author:
+- Publisher: Phaedrus
+- RRP: $7.99
+- Last checked out to: Gladius Sylva's Ancestral Home
+
+>ADVENTURER! Your days of searching in magazines and dusty books are over. The Player's Handbook you hold in your hands contains all the Wizards & Wyverns spells, combat tables and character classes you need to make a name for yourself in the Sundered Lands of the Ur-Dark.
+
+>Be you a stout Dwarven Fighter or a willowy Elf Ranger, your quests rely on the knowledge you'll find herein. And because this guide carries Phaedrus' Seal of Quality, it has "guaranteed compatibility" with all Wizards & Wyverns Adventure Campaigns, Quest Modules and One-Shot Epics. Go beyond the Game– only with Phaedrus.
+
+---
+
+# One Chance to Die (Crime By The Numbers)
+
