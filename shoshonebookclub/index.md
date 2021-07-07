@@ -176,3 +176,81 @@ by Howard Cruthers
 
 # One Chance to Die (Crime By The Numbers)
 
+- Author: Richard Sturgeon
+- Publisher: Red Panda Crime
+- RRP: $2.50
+- Last checked out to: Cache 307
+
+>The first book in Crime By The Numbers, from the author of the bestselling S.P.E.C.T.R.U.M. spy series. One Chance to Die us the book that started it all.
+
+>Neal Black is South City's most effective, but least known detective. A former SCPD officer, Neal is friend to few and ally to only one: justice.
+
+>South City is in trouble. A city deep in debt tumbles into turmoil when the Deputy Mayor is assassinated and South City PD fears the killer is one of their own. With any internal affairs investigation sure to put another target on someone's back, they call upon the only person who can do the job. Neal Black.
+
+>In a high-stakes game of chicken, he is the only one willing to take the risks to stop the killer in his tracks and do what nobody else can: put South City in the Black.
+
+---
+
+# Death Strikes at Two (Crime By The Numbers)
+
+- Author: Richard Sturgeon
+- Publisher: Red Panda Crime
+- RRP: $2.50
+- Last checked out to: Two Forks Lookout
+
+>Experience Richard Sturgeon's explosive follow-up to "One Chance to Die"
+
+>Twelve bodies. Zero leads. One man for the job.
+
+>When Neal Black is asked to investigate the bizarre murder of a local teen, he reluctantly accepts at the behest of a "friend." A friend, that is, up until he discovers shocking evidence that the victim was just the latest in a string of unsolved murders that stretches back over the decade.
+
+>Now, time is running out. It's only a matter of days until the killer strikes again and Neal Black is determined to make every second count.
+
+>OVER THREE MILLION RICHARD STURGEON BOOKS IN PRINT
+
+---
+
+# Three Blind Rats (Crime By The Numbers)
+
+- Author: Richard Sturgeon
+- Publisher: Red Panda Crime
+- RRP: $2.50
+- Last checked out to: Cache 308
+
+>When FBI informants need protection you call the police. When those informants wind up dead, you call Neal Black.
+
+>In a rain-soaked return to South City, Neal Black is hung out to dry as the only man who can piece an FBI case back together with danger lurking around every corner. Introducing Black's arch-nemesis, the shadowy Don Karl, Three Blind Mice is Sturgeon at his best.
+
+>When Neal Black is stabbed in the back, who will be the one holding the carving knife? One thing's for sure: it's not the farmer's wife.
+
+---
+
+# The Fourth Estate (Crime By The Numbers)
+
+- Author: Richard Sturgeon
+- Publisher: Red Panda Crime
+- RRP: $2.50
+- Last checked out to: Cache 305
+
+>Neal Black thought a trip to California would do him good. He'd soak up some sun, drive a convertible and maybe even enjoy a poolside drink with a tiny umbrella.
+
+>But in Richard Sturgeon's fourth entry in the Neal Black series, California is nothing but a dream. An emergency landing after a murder int he first class kicks off a trans-American thriller that puts Neal Black off the South City streets and slams him head-first into a sordid web of politics and high-finance and all he finds is murder, deceit and betrayal.
+
+>The Fourth Estate is new territory for Sturgeon and it's not to be missed.
+
+---
+
+# Five Degrees North (Crime By The Numbers)
+
+- Author: Richard Sturgeon
+- Publisher: Red Panda Crime
+- RRP: $2.50
+- Last checked out to: Gladius Sylva's Ancestral Home
+
+>Neal Black has just exposed the largest underground gambling racket in the nation's history. With the Mayor basking in the glory it's only when consequences come knocking is Neal Black called on again. Neal Black is a lot of things: but a fall guy isn't one of them.
+
+>Can Neal beat the odds when the most dangerous names in the mob have his number? And in the end, when a high-risk sting goes wrong it's only a matter of time before the powers that be do what they always do...
+
+>...put it on all Black.
+
+---
