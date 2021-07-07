@@ -254,3 +254,63 @@ by Howard Cruthers
 >...put it on all Black.
 
 ---
+
+# Six Feet Down Under (Crime By The Numbers)
+
+- Author: Richard Sturgeon
+- Publisher: Red Panda Crime
+- RRP: $2.50
+- Last checked out to: Cache 302
+
+>Detective Neal Black told himself he'd never visit Australia but when a grizzly murder in South City leads all the way to Sydney, Black is determined to make the killer say g'day to justice.
+
+>THE CRITICS RAVE OVER CRIME BY THE NUMBERS
+
+>"Neal Black makes Sam Spade look like Mickey Mouse," -- Bill Wednesday, The Columbus Parade
+
+>"We're living in a golden age of crime fiction and Dick Sturgeon is King Midas," -- Alfred Wu, The Oakland Register
+
+>"Crime by the Number is as if Tolstory wrote the dime store novels of my youth. There may not be a better depicter of drama in our lifetime,"
+
+>Greta O'Houlihan, The Boston Times
+
+---
+
+# 7erminal 7 (Crime By The Numbers)
+
+- Author: Richard Sturgeon
+- Publisher: Red Panda Crime
+- RRP: $2.50
+- Last checked out to: Cache 307 (pending)
+
+>Now a major motion picture starring Anders Nelson as Neal Black
+
+>Thanksgiving. South City Airport is packed to the gills with travelers eager to ditch the dreary metropolis for the holiday.And a group of Soviet Terrorists has just ensured that nobody is going anywhere.
+
+>Only former South City copy turned world-class detective Neal Black can cut through the red-tape and give the hostages a fighting chance. While the FBI is ready to start Wold War III, Black knows the only person who could've orchestrated this act of terror -- and it's not Ivan.
+
+>Starring Michael Keaton with Kurt Russel as Don Karl, Terminal Seven comes to the big screen Summer of 1986!
+
+---
+
+# Eight Rolled the Hard Way (Crime By The Numbers)
+
+- Author: Richard Sturgeon
+- Publisher: Red Panda Crime
+- RRP: $2.50
+- Last checked out to: Two Forks Lookout
+
+>Neal Black has just exposed the largest underground gambling racket in the nation's history. With the Mayor basking in the glory it's only when consequences come knocking is Neal Black called on again. Neal Black is a lot of things: but a fall guy isn't one of them.
+
+>Can Neal beat the odds when the most dangerous names in the mob have his number? And in the end, when a high-risk sting goes wrong it's only a matter of time before the powers that be do what they always do: put it all on Black.
+
+>OVER 15 MILLION NEAL BLACK BOOKS IN PRINT
+
+---
+
+
+
+
+
+
+
