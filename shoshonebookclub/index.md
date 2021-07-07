@@ -308,9 +308,78 @@ by Howard Cruthers
 
 ---
 
+# Nine Lives Lost (Crime By The Numbers)
 
+- Author: Richard Sturgeon
+- Publisher: Red Panda Crime
+- RRP: $2.50
+- Last checked out to: Ned Goodwin
 
+>Neal Black's first day of retirement could've gone better. It began with Neal shot in the chest and left for dead.
 
+>Now, after decades of bringing hundreds of the nastiest elements of South City to justice, Neal is back on his feet with no leads and only a stray black cat that refuses to leave his apartment. Who would want Neal Black dead? A better question might be: who wouldn't?
+
+>In Nine Lives Lost, Neal is at the service of the most endangered and murcurial client he's ever had. Himself.
+
+---
+
+# Ten to One (Crime By The Numbers)
+
+- Author: Richard Sturgeon
+- Publisher: Red Panda Crime
+- RRP: $2.50
+- Last checked out to: Camp Arapahoe
+
+>The gripping finale to Crime By The Numbers
+
+>Ten names, all sure to be dead in forty-eight hours.
+
+>When a full-page ad is taken out in the South City Chronicle with the names of ten citizens, none connected, and three already dead, it's clear to the city of 1.5 million what is going to happen to the last seven.
+
+>Closing out Richard Sturgeon's decalogue of thrills, Neal Black has two more jobs to do: find the killer and save South City from itself. Making his task even harder is the final name printed in the paper: his own.
+
+>Ten to One is the climax that readers deserve and a fitting end to a fifteen years of Neal Black mystery.
+
+---
+
+# Magazines & Comics
+
+---
+
+# Black Band #3
+
+- Author: Gary Boss
+- Publisher: Comics Authority
+- Date: April 1986
+- Last checked out to: Gladius Sylva's Ancestral Home
+
+---
+
+# 1001 Crosswords
+
+-Last checked out to: Thorofare Lookout
+
+---
+
+# 1001 More Crosswords
+
+- Last checked out to: Thorofare Lookout
+
+---
+
+# Credit
+
+## [OP](https://steamcommunity.com/sharedfiles/filedetails/?id=625733417)
+
+## Guide by
+
+## [Cheeseness](https://steamcommunity.com/id/cheeseness)
+
+## &
+
+## [Mimness](https://steamcommunity.com/id/Mim_Ness)
+
+---
 
 
 
