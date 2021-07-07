@@ -357,7 +357,7 @@ by Howard Cruthers
 
 # 1001 Crosswords
 
--Last checked out to: Thorofare Lookout
+- Last checked out to: Thorofare Lookout
 
 ---
 
