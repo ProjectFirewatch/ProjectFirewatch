@@ -8,7 +8,7 @@ Note that titles marked as "pending" will not appear in their respective locatio
 
 ---
 
-[Home](/)
+### [Home](/)
 
 ---
 
