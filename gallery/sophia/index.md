@@ -120,6 +120,7 @@
 
 ![0](/gallery/sophia/i/4_photo_18.jpg)
 
+---
 
 *projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
 
