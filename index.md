@@ -1,5 +1,4 @@
-<link rel="shortcut icon" type="cdn/fw.png" href="Favicon_Image_Location"/>
-
+<link rel="shortcut icon" href="/cdn/fw.png"" />
 
 
 # projectfirewatch.com
