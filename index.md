@@ -28,6 +28,8 @@
 
 ### [Shoshone Wildlife Notes](/shoshonewildlifenotes/)
 
+### [Shoshone Book Club](/shoshonebookclub/)
+
 ### [Gallery](/gallery/)
 
 ### [Game Transcription (Click For Staff Notes)](/transcription/)
