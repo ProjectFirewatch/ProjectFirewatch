@@ -1,7 +1,11 @@
 # All Achievements
-
-### [Home](/)  
+ 
 ---
+ 
+### [Home](/)  
+
+---
+
 ![Good First Day](/cdn/achievements/goodday.jpg)
 Good first day.
 Completed Day 1
