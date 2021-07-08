@@ -12,7 +12,7 @@
 
 ### [Project News/Info](/info/project)
 
-### [No, Thank you.](/info/thanks)
+### [Thank you](/info/thanks)
 
 ---
 
