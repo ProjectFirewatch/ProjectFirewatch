@@ -1,5 +1,7 @@
 # Firewatch Wiki
-
+ 
+---
+ 
 ### [Home](/)
 
 ---
