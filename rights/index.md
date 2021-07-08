@@ -1,7 +1,11 @@
 # Project Rights
-
+ 
+---
+ 
 ### [Home](/)  
-
+ 
+---
+ 
 ## This project is an open-source and community-run, all of the copywritten content on this site belongs to its original owners.
 
 ---
