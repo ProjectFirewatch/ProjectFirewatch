@@ -38,7 +38,7 @@
 
 ### [Misc Info](/info/)
 
-### [Firewatch Playthrough No Commentary](https://www.youtube.com/watch?v=bzihcKAMS9c)
+### [Firewatch Playthrough No Commentary (Still Processing)](https://www.youtube.com/watch?v=WxTp-I0O8TU)
 
 
 ---
