@@ -1,3 +1,7 @@
+# Shoshone Book Club
+ 
+---
+ 
 Welcome, avid reader to the reading catalogue of the Friends of Shahone Book Club & Lending Library. Every title listed here is available thanks to Red Panda Press and Wyoming National Park Service.
 
 Before browsing, be sure to play the game!
