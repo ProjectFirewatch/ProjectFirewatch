@@ -29,9 +29,10 @@
 
 ### [Misc Info](/info/)
 
+### [Firewatch Playthrough](/playthrough/)
+
 ### [Audio Tour Transcription](https://drive.google.com/file/d/1NmEo4mVb5l_jdKt4KgtVN135Hw18mStz/view?usp=sharing)
 
-### [Firewatch Playthrough in 4K](https://www.youtube.com/watch?v=WxTp-I0O8TU)
 
 
 ---
