@@ -31,7 +31,7 @@
 
 ### [Firewatch Playthrough](/playthrough/)
 
-### [Audio Tour Transcription](https://drive.google.com/file/d/1NmEo4mVb5l_jdKt4KgtVN135Hw18mStz/view?usp=sharing)
+### [Audio Tour Transcription](/cdn/FirewatchAudioTour.pdf)
 
 
 
