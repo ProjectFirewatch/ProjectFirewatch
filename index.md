@@ -25,13 +25,13 @@
 
 ### [Gallery](/gallery/)
 
-### [Game Transcription (Click For Staff Notes)](/transcription/)
-
-### [Audio Tour Transcription](https://drive.google.com/file/d/1NmEo4mVb5l_jdKt4KgtVN135Hw18mStz/view?usp=sharing)
+### [Game Transcription (Discontinued)](/transcription/)
 
 ### [Misc Info](/info/)
 
-### [Firewatch Playthrough No Commentary (Still Processing)](https://www.youtube.com/watch?v=WxTp-I0O8TU)
+### [Audio Tour Transcription](https://drive.google.com/file/d/1NmEo4mVb5l_jdKt4KgtVN135Hw18mStz/view?usp=sharing)
+
+### [Firewatch Playthrough in 4K](https://www.youtube.com/watch?v=WxTp-I0O8TU)
 
 
 ---
