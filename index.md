@@ -55,10 +55,6 @@
 ![Firewatch Intro](/cdn/20200701135654_1.jpg)
 
 ---
- 
-![Firewatch Photo](/cdn/20200701135646_1.jpg)
-
----
 
 *projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
 
