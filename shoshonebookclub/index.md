@@ -373,15 +373,13 @@ by Howard Cruthers
 
 # Credit
 
-## [OP](https://steamcommunity.com/sharedfiles/filedetails/?id=625733417)
+# [Original Post](https://steamcommunity.com/sharedfiles/filedetails/?id=625733417)
 
-## Guide by
+# Guide by
 
-## [Cheeseness](https://steamcommunity.com/id/cheeseness)
+[Cheeseness](https://steamcommunity.com/id/cheeseness)
 
-## &
-
-## [Mimness](https://steamcommunity.com/id/Mim_Ness)
+[Mimness](https://steamcommunity.com/id/Mim_Ness)
 
 ---
 
