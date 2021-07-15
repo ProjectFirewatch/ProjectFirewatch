@@ -373,7 +373,7 @@ by Howard Cruthers
 
 # Credit
 
-# [Original Post](https://steamcommunity.com/sharedfiles/filedetails/?id=625733417)
+[Original Post](https://steamcommunity.com/sharedfiles/filedetails/?id=625733417)
 
 # Guide by
 
