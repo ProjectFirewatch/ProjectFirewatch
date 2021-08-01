@@ -14,10 +14,10 @@
 
 ### Archives
 
-### [5-31-21](/archives/Firewatch-Guide-5-31-21.zip)
+### [5-31-21](/PF-archives/Firewatch-Guide-5-31-21.zip)
 
 
-### [7-31-21](/archivse/ProjectFirewatch-7-31-21.zip)
+### [7-31-21](/PF-archives/ProjectFirewatch-7-31-21.zip)
 
 
 *projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
