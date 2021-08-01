@@ -35,7 +35,7 @@
 
 ---
 
-## Community Update
+## Community Update!
 
 ## 7/30/2021
 
