@@ -17,21 +17,21 @@
 
 ## Table of contents
 
-### [Achievements](/achievements/)
+### [Achievements](/ProjectFirewatch-7-31-21/achievements/)
 
-### [Shoshone Wildlife Notes](/shoshonewildlifenotes/)
+### [Shoshone Wildlife Notes](/ProjectFirewatch-7-31-21/shoshonewildlifenotes/)
 
-### [Shoshone Book Club](/shoshonebookclub/)
+### [Shoshone Book Club](/ProjectFirewatch-7-31-21/shoshonebookclub/)
 
-### [Gallery](/gallery/)
+### [Gallery](/ProjectFirewatch-7-31-21/gallery/)
 
-### [Game Transcription (Discontinued)](/transcription/)
+### [Game Transcription (Discontinued)](/ProjectFirewatch-7-31-21/transcription/)
 
-### [Misc Info](/info/)
+### [Misc Info](/ProjectFirewatch-7-31-21/info/)
 
-### [Firewatch Playthrough](/playthrough/)
+### [Firewatch Playthrough](/ProjectFirewatch-7-31-21/playthrough/)
 
-### [Audio Tour Transcription](/cdn/FirewatchAudioTour.pdf)
+### [Audio Tour Transcription](/ProjectFirewatch-7-31-21/cdn/FirewatchAudioTour.pdf)
 
 ---
 
@@ -44,22 +44,22 @@
 
 ---
 
-![Firewatch Photo](/cdn/20201109190843_1.jpg)
+![Firewatch Photo](/ProjectFirewatch-7-31-21/cdn/20201109190843_1.jpg)
 
 ---
  
-![Firewatch Photo](/cdn/20201109191235_1.jpg)
+![Firewatch Photo](/ProjectFirewatch-7-31-21/cdn/20201109191235_1.jpg)
 
 ---
-![Firewatch Photo](/cdn/20200701135637_1.jpg)
+![Firewatch Photo](/ProjectFirewatch-7-31-21/cdn/20200701135637_1.jpg)
 
 ---
 
-![Firewatch Photo](/cdn/20200701135646_1.jpg)
+![Firewatch Photo](/ProjectFirewatch-7-31-21/cdn/20200701135646_1.jpg)
 
 ---
  
-![Firewatch Intro](/cdn/20200701135654_1.jpg)
+![Firewatch Intro](/ProjectFirewatch-7-31-21/cdn/20200701135654_1.jpg)
 
 ---
 
