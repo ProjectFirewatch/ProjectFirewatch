@@ -19,6 +19,7 @@
 
 ### [7-31-21](/cdn/rar/ProjectFirewatch-8-1-21.rar)
 
+---
 
 *projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
 
