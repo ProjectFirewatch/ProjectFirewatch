@@ -17,7 +17,7 @@
 ### [5-31-21](/cdn/rar/Firewatch-Guide-5-31-21.rar)
 
 
-### [7-31-21](/cdn/rar/ProjectFirewatch-8-1-21.rar)
+### [8-1-21](/cdn/rar/ProjectFirewatch-8-1-21.rar)
 
 ---
 
