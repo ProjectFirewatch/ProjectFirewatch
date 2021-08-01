@@ -14,3 +14,4 @@
 - Header image added
 - Moved Audio Tour from google drive to the site.
 - Added a page for the Firewatch Playthrough
+- Added archives page
