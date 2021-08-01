@@ -27,6 +27,7 @@
 
 ### [Game Transcription (Discontinued)](/transcription/)
 
+### [Archives](/archives/)
 
 ### [Misc Info](/info/)
 
