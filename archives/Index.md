@@ -4,6 +4,8 @@
 
 # Full downloadable clones of the project over time.
 
+*due to space constraints /cdn/ is not inculded, but our cdn is static and stuff will never be deleted.*
+
 ---
 
 ## Crawls of the website can be found on [Archive.org](https://web.archive.org/web/*/https://projectfirewatch.com)
@@ -12,10 +14,10 @@
 
 ### Archives
 
-### [5-31-21](/archive/Firewatch-Guide-5-31-21/)
+### [5-31-21](/archives/Firewatch-Guide-5-31-21.zip)
 
 
-### [7-31-21](/archive/ProjectFirewatch-7-31-21/)
+### [7-31-21](/archivse/ProjectFirewatch-7-31-21.zip)
 
 
 *projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
