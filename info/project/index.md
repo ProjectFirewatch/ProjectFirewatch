@@ -18,4 +18,4 @@
 - Removed archives page because it had flaws
 
 # August Change Log
--
+- Added archives pages back
