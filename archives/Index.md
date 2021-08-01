@@ -2,6 +2,10 @@
 
 ---
 
+### [Home](/)  
+
+---
+
 # Full downloadable clones of the project over time.
 
 */cdn/ folder not included*
