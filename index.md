@@ -35,15 +35,6 @@
 
 ---
 
-## Community Update!
-
-## 7/30/2021
-
-## Thanks for 5.3 million page views, As an fyi I am on "vacation" and I will be back soon.
-
-
----
-
 ![Firewatch Photo](/cdn/20201109190843_1.jpg)
 
 ---
