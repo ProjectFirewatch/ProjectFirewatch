@@ -27,8 +27,6 @@
 
 ### [Game Transcription (Discontinued)](/transcription/)
 
-### [Archives](/archives/Index.html)
-
 ### [Misc Info](/info/)
 
 ### [Firewatch Playthrough](/playthrough/)
