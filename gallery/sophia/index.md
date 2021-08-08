@@ -28,8 +28,6 @@
 
 ![0](/gallery/sophia/i/1_photo_13.jpg)
 
-![0](/gallery/sophia/i/1_photo_13.jpg)
-
 ![0](/gallery/sophia/i/2_photo_1.jpg)
 
 ![0](/gallery/sophia/i/2_photo_2.jpg)
