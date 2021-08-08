@@ -11,7 +11,7 @@ A template will be coming soon.
 # Community Firewatch Photos
 
 ---
-deadwoodlookout
+
 ### [Sophia's Photos](/gallery/sophia)
 
 ### [Deadwood Lookout Photos (IRL)](/gallery/deadwoodlookout)
