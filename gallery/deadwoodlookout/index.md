@@ -2,6 +2,10 @@
 
 ---
 
+### [Home](/)
+
+---
+
 ![0](/gallery/deadwoodlookout/i/lookoutsign.jpg)
 
 ![0](/gallery/deadwoodlookout/i/lookoutday.jpg)
