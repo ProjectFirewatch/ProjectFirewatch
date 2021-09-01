@@ -30,6 +30,11 @@ I was gone for about a week and I came back to almost 3.1 million page views, I 
 Thanks for 5.3 million page views, As an fyi I am on "vacation" and I will be back soon.
 
 ---
+9/1/2021
+
+WoW 10,000,000 million page views, numbers like this are big, I don't know what I can do to repay you all. I love you all thanks for this.
+
+---
 
 *projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
 
