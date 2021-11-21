@@ -8,9 +8,7 @@
 
 ---
  
-## Contact Email
-
-### [projectfirewatch@gmail.com](mailto:projectfirewatch@gmail.com)
+### [Contact Email](mailto:contact@projectfirewatch.com)
 
 ---
  
