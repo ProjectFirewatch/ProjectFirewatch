@@ -1,4 +1,4 @@
-![Header](/cdn/newheader.png) 
+![Header](/cdn/webp/newheader.webp) 
 
 ---
 
@@ -35,38 +35,38 @@
 
 ---
 
-![Firewatch Photo](/cdn/10-3-21/20211003084110_1.jpg)
+![Firewatch Photo](/cdn/webp/10-3-21/20211003084110_1.webp)
 
 ---
  
-![Firewatch Photo](/cdn/10-3-21/20211003084128_1.jpg)
+![Firewatch Photo](/cdn/webp/10-3-21/20211003084128_1.webp)
 
 ---
-![Firewatch Photo](/cdn/10-3-21/20211003084239_1.jpg)
-
----
-
-![Firewatch Photo](/cdn/10-3-21/20211003084245_1.jpg)
+![Firewatch Photo](/cdn/webp/10-3-21/20211003084239_1.webp)
 
 ---
 
-![Firewatch Photo](/cdn/10-3-21/20211003084338_1.jpg)
+![Firewatch Photo](/cdn/webp/10-3-21/20211003084245_1.webp)
 
 ---
 
-![Firewatch Photo](/cdn/10-3-21/20211003084434_1.jpg)
+![Firewatch Photo](/cdn/webp/10-3-21/20211003084338_1.webp)
 
 ---
 
-![Firewatch Photo](/cdn/10-3-21/20211003090936_1.jpg)
+![Firewatch Photo](/cdn/webp/10-3-21/20211003084434_1.webp)
 
 ---
 
-![Firewatch Photo](/cdn/20200701135646_1.jpg)
+![Firewatch Photo](/cdn/webp/10-3-21/20211003090936_1.webp)
+
+---
+
+![Firewatch Photo](/cdn/webp/20200701135646_1.webp)
 
 ---
  
-![Firewatch Intro](/cdn/20200701135654_1.jpg)
+![Firewatch Intro](/cdn/webp/20200701135654_1.webp)
 
 ---
 
