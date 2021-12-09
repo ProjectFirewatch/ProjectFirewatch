@@ -126,3 +126,9 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+---
+
+*projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
+
+*Firewatch and the Firewatch logos are trademarks of Campo Santo. All other trademarks are property of their respective owners.*
