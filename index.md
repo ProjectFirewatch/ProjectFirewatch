@@ -31,6 +31,8 @@
 
 ### [Firewatch Playthrough](/playthrough/)
 
+### [Code Of Conduct](/codeofconduct/)
+
 ### [Audio Tour Transcription](/cdn/FirewatchAudioTour.pdf)
 
 ---
