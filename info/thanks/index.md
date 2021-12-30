@@ -35,6 +35,11 @@ Thanks for 5.3 million page views, As an fyi I am on "vacation" and I will be ba
 WoW 10,000,000 million page views, numbers like this are big, I don't know what I can do to repay you all. I love you all thanks for this.
 
 ---
+12/29/2021
+
+17,000,000 million page views, Thanks for all of the support on Project Firewatch, Hope to do some cool stuff very soon. All so Firewatch was updated after almost 4 years!!
+
+---
 
 *projectfirewatch.com is a community website and is not affiliated with Firewatch or Campo Santo.*
 
