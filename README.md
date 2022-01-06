@@ -4,7 +4,7 @@
  
 ## want to contribute? Fork the project then do a pull request.
 
-![Guide](https://sophia.wtf/cdn/contribute.PNG)
+![Contribute](https://raw.githubusercontent.com/waterwade/ProjectFirewatch/main/cdn/contribute.png)
 
 ---
  
