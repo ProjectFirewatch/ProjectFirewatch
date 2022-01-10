@@ -16,7 +16,7 @@
 
 ---
 
-## Photos Taken By [Dog house Resin](https://doghouseresin.com/store/)
+## Photos Taken By [Dog Hair Tumbleweeds](https://doghairtumbleweeds.com/)
 
 *These Photos are under the GNU General Public License v3.0, Please look at the Github repository, before redistributing.*
 
