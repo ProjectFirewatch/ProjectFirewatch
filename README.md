@@ -18,7 +18,8 @@
 ---
  
 # Contributers!
-### 1. [Sophia](https://github.com/SophiaAtkinson) Project  Owner
+### 1. [Sophia](https://github.com/SophiaAtkinson) Project Owner
+### 2. [Shwampy](https://github.com/shwamphub) Project Maintainer
 
 ---
 
