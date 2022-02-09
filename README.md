@@ -4,7 +4,7 @@
  
 ## want to contribute? Fork the project then do a pull request.
 
-![Contribute](https://raw.githubusercontent.com/waterwade/ProjectFirewatch/main/cdn/contribute.png)
+![Contribute](https://raw.githubusercontent.com/ProjectFirewatch/ProjectFirewatch/main/cdn/contribute.png)
 
 ---
  
