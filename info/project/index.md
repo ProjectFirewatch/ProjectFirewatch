@@ -2,7 +2,7 @@
 
 ---
 
-# For better or for worse the project is complete.
+# This page has been deprecated.
  
 ---
  
