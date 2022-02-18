@@ -37,7 +37,7 @@ WoW 10,000,000 million page views, numbers like this are big, I don't know what 
 ---
 12/29/2021
 
-17,000,000 million page views, Thanks for all of the support on Project Firewatch, Hope to do some cool stuff very soon. All so Firewatch was updated after almost 4 years!!
+17,000,000 million page views, Thanks for all of the support on Project Firewatch, Hope to do some cool stuff very soon. Also Firewatch was updated after almost 4 years!!
 
 ---
 
