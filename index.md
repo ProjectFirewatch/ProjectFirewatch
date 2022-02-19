@@ -16,24 +16,15 @@
 ---
 
 ## Table of contents
-
 ### [Achievements](/achievements/)
-
-### [Shoshone Wildlife Notes](/shoshonewildlifenotes/)
-
-### [Shoshone Book Club](/shoshonebookclub/)
-
-### [Gallery](/gallery/)
-
-### [Game Transcription (Discontinued)](/transcription/)
-
-### [Misc Info](/info/)
-
-### [Firewatch Playthrough](/playthrough/)
-
-### [Code Of Conduct](/codeofconduct/)
-
 ### [Audio Tour Transcription](/cdn/FirewatchAudioTour.pdf)
+### [Blog](https://blog.projectfirewatch.com/)
+### [Code Of Conduct](/codeofconduct/)
+### [Firewatch Playthrough](/playthrough/)
+### [Gallery](/gallery/)
+### [Misc Info](/info/)
+### [Shoshone Book Club](/shoshonebookclub/)
+### [Shoshone Wildlife Notes](/shoshonewildlifenotes/)
 
 ---
 
