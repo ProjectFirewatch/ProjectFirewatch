@@ -1,4 +1,4 @@
-# A project deticated to the game Firewatch by Campo Santo (Now defunct: Sold to valvesoftware)
+# A project deticated to the game Firewatch by Campo Santo.
 
 ---
  
@@ -25,7 +25,7 @@
 ### 5. [Kisho Kubo](https://github.com/KishoKubo) TBD
 ### 6. [Lily Lu](https://github.com/lilylu2) TBD
 ### 7. [Franklin Green](https://github.com/franklinlol) TBD
-
+### 8. [George Zebrowski](https://github.com/GeorgeZebrowski) TBD
 
 ---
 
