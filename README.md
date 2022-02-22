@@ -8,7 +8,7 @@
 
 ---
  
-### [Our Enail](mailto:contact@projectfirewatch.com)
+### [Our Email](mailto:contact@projectfirewatch.com)
 
 ---
  
