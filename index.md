@@ -25,6 +25,7 @@
 ### [Misc Info](/info/)
 ### [Shoshone Book Club](/shoshonebookclub/)
 ### [Shoshone Wildlife Notes](/shoshonewildlifenotes/)
+### [Staff/Contributors](/staff/)
 
 ---
 
