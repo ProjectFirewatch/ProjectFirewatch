@@ -26,6 +26,7 @@
 ### 6. [Lily Lu](https://github.com/lilylu2) TBD
 ### 7. [Franklin Green](https://github.com/franklinlol) TBD
 ### 8. [George Zebrowski](https://github.com/GeorgeZebrowski) TBD
+### 9. [James Waters](https://github.com/dootcodes) TBD
 
 ---
 
