@@ -11,7 +11,7 @@
 ---
 
 
-## I own content that is on this page and I want it removed. Well that sucks but go ahead and [email](mailto:projectfirewatch@gmail.com) us
+## I own content that is on this page and I want it removed. Well that sucks but go ahead and [email](mailto:contact@projectfirewatch.com) us
 
 ---
 
