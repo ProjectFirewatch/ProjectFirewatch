@@ -18,15 +18,8 @@
 ---
  
 # Contributers!
-### 1. [Sophia Atkinson](https://github.com/SophiaAtkinson) Project Owner
-### 2. [Wade Waters](https://github.com/shwamphub) Project Maintainer
-### 3. [Matt Waters](https://github.com/MattJWaters) Project Manager
-### 4. [Kami KoIshii](https://github.com/KamikoIshii) TBD
-### 5. [Kisho Kubo](https://github.com/KishoKubo) TBD
-### 6. [Lily Lu](https://github.com/lilylu2) TBD
-### 7. [Franklin Green](https://github.com/franklinlol) TBD
-### 8. [George Zebrowski](https://github.com/GeorgeZebrowski) TBD
-### 9. [James Waters](https://github.com/dootcodes) TBD
+### Moved to.
+### https://projectfirewatch.com/staff/
 
 ---
 
