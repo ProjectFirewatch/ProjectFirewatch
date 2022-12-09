@@ -13,7 +13,13 @@ section,
 summary {
 	display: block
 }
+/* Make sure embeds and iframes fit their containers */
 
+embed,
+iframe,
+object {
+  max-width: 100%;
+}
 audio,
 canvas,
 video {

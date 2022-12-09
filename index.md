@@ -1,30 +1,39 @@
-![Header](/cdn/webp/headerbutbetter.webp) 
+# ![Header](/cdn/webp/headerbutbetter.webp)
 
 ---
 
 # What is Firewatch?
 
 ---
- 
-### Firewatch is a single-player first-person mystery set in the Wyoming wilderness, where your only emotional lifeline is the person on the other end of a handheld radio.
+
+### Firewatch is a single-player first-person mystery set in the Wyoming wilderness, where your only emotional lifeline is the person on the other end of a handheld radio
 
 ---
-
 
 ![Clickaroos](https://camo.githubusercontent.com/612c403f0241d9c1edf9ea44167dc013cb6de7457457f6e7c0a1373b3b5db65c/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470732533412532462532466769746875622e636f6d253246536f7068696141746b696e736f6e2532464669726577617463682d477569646526636f756e745f62673d253233323532353235267469746c655f62673d2532333235323532352669636f6e3d2669636f6e5f636f6c6f723d253233453745374537267469746c653d436c69636b61726f6f7326656467655f666c61743d74727565)
 
 ---
 
 ## Table of contents
+
 ### [Achievements](/achievements/)
+
 ### [Audio Tour Transcription](/cdn/FirewatchAudioTour.pdf)
+
 ### [Blog](https://blog.projectfirewatch.com/)
+
 ### [Code Of Conduct](/codeofconduct/)
+
 ### [Firewatch Playthrough](/playthrough/)
+
 ### [Gallery](/gallery/)
+
 ### [Misc Info](/info/)
+
 ### [Shoshone Book Club](/shoshonebookclub/)
+
 ### [Shoshone Wildlife Notes](/shoshonewildlifenotes/)
+
 ### [Staff/Contributors](/staff/)
 
 ---
@@ -32,7 +41,7 @@
 ![Firewatch Photo](/cdn/webp/10-3-21/20211003084110_1.webp)
 
 ---
- 
+
 ![Firewatch Photo](/cdn/webp/10-3-21/20211003084128_1.webp)
 
 ---
@@ -59,7 +68,7 @@
 ![Firewatch Photo](/cdn/webp/20200701135646_1.webp)
 
 ---
- 
+
 ![Firewatch Intro](/cdn/webp/20200701135654_1.webp)
 
 ---
