@@ -34,8 +34,6 @@
 
 ### [Shoshone Wildlife Notes](/shoshonewildlifenotes/)
 
-### [Staff/Contributors](/staff/)
-
 ---
 
 ![Firewatch Photo](/cdn/webp/10-3-21/20211003084110_1.webp)
