@@ -1,0 +1,77 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  {{ hugo.Generator }}
+  <link rel="canonical" href="{{ .Permalink }}" />
+
+  {{ if .IsHome }}
+    {{ with .Site.Params.homeMetaContent }}
+      <meta name="description" content="{{ . | plainify }}">
+    {{ end }}
+  {{ else }}
+    {{ $summary := trim (.Summary | plainify | htmlUnescape) "\n\r"
+      | default .Title }}
+    <meta name="description" content="{{ $summary }}">
+  {{ end }}
+
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | absURL }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | absURL }}"> 
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | absURL }}"> 
+  <link rel="manifest" href="{{ "site.webmanifest" | absURL }}"> 
+  <link rel="mask-icon" href="{{ "safari-pinned-tab.svg" | absURL }}" color="#ffa500"> 
+  <meta name="msapplication-TileColor" content="#ffa500">
+  <meta name="theme-color" content="#ffa500">
+
+  <style>
+    body {
+      visibility: hidden;
+      opacity: 0;
+    }
+  </style>
+
+  <style id="darkTheme">
+    .intro-and-nav{
+      z-index: 100;
+      left: 0;
+      top: 0;
+      height: 60px;
+      width: 100%;
+      position: fixed;
+      background:#353535;
+      border-bottom: 4px solid #434343;
+      box-shadow: 0 1px 3px rgba(0,0,0,.25);
+      color:#E1D9D1;
+  }
+    .main-and-footer {
+      background: linear-gradient(#2a2a29,#1c1c1c);
+      color: #E1D9D1
+    }
+    .main-and-footer a{
+      color: #ffa500
+    }
+    * {
+      background-color: inherit
+    }
+    .intro-and-nav{
+    border-color: transparent!important;
+    }
+  </style>
+
+  <link rel="stylesheet" href="{{ "css/prism.css" | relURL }}" media="none" onload="this.media='all';">
+
+  {{ $templateStyles := resources.Get "css/template-styles.css" }}
+  {{ $styles := $templateStyles | resources.ExecuteAsTemplate "css/styles.css" . }}
+  <link rel="stylesheet" type="text/css" href="{{ $styles.RelPermalink }}">
+
+  {{ range .Site.Params.customCss }}
+    <link rel="stylesheet" href="{{ . | relURL }}">
+  {{ end }}
+
+  {{ $title := print .Title " | " .Site.Title }}
+  {{ if .IsHome }}
+    {{ $title = .Site.Title }}
+  {{ end }}
+  <title>{{ $title }}</title>
+</head>
