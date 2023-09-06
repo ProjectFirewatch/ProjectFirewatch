@@ -1,7 +1,9 @@
 {{ define "main" }}
   <main id="main">
-    <h1 id="title">{{ .Title }}</h1>
-    <hr>
+    <div id="title-container">
+      <h1 id="title">{{ .Title }}</h1>
+      <hr>
+    </div>
     {{ .Content }}
   </main>
 {{ end }}

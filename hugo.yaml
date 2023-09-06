@@ -46,7 +46,7 @@ menu:
     - name: Audio Tour Transcription
       url: /cdn/FirewatchAudioTour.pdf
       weight: 2
-    - name: Firewatch Playthrough
+    - name: Playthrough
       url: /playthrough/
       weight: 3
     - name: Gallery
