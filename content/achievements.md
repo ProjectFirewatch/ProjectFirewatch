@@ -2,76 +2,35 @@
 date: "06-03-2021"
 title: "Achievements"
 ---
+<style>#main p img{vertical-align:middle;}</style>
 
-![Good First Day](/cdn/achievements/goodday.webp)
+# Standard Achievements
 
-Good first day.
+![Good First Day](/cdn/achievements/goodday.webp) Good first day: Completed Day 1
 
-Completed Day 1
 
-- Story related and cannot be missed. Complete Day 1 of the game to unlock this achievement.
+![Back to work](/cdn/achievements/backtowork.webp) Back to work: Completed Day 2
 
----
+![Someone's out here.](/cdn/achievements/someonesouthere.webp) Someone's out here: Completed Day 76
 
-![Back to work](/cdn/achievements/backtowork.webp)
+![Burn the place down.](/cdn/achievements/burntheplacedown.webp) Burn the place down: Completed Day 77
 
-Back to work.
 
-Completed Day 2
-
-- Story related and cannot be missed. Complete Day 2 of the game to unlock this achievement.
+![Firewatch](/cdn/achievements/firewatch.webp) Firewatch: Completed Day 79
 
 ---
 
-![Someone's out here.](/cdn/achievements/someonesouthere.webp)
+# Secret Achievements
 
-Someone's out here.
-
-Completed Day 76
-
-- Story related and cannot be missed. Complete Day 76 of the game to unlock this achievement. ⠀⠀
-
----
-
-![Burn the place down.](/cdn/achievements/burntheplacedown.webp)
-
-Burn the place down.
-
-Completed Day 77
-
-- Story related and cannot be missed. Complete Day 77 of the game to unlock this achievement.
-
----
-
-![Firewatch](/cdn/achievements/firewatch.webp)
-
-Firewatch.
-
-Completed Day 79
-
-- Story related and cannot be missed. Complete Day 79 of the game to unlock this achievement.
-
----
-
-![Shutter Bug](/cdn/achievements/shutterbug.webp)
-
-Shutter Bug.
-
-Filled a disposable camera with photos.
+![Shutter Bug](/cdn/achievements/shutterbug.webp) Shutter Bug: Filled a disposable camera with photos.
 
 - This can be completed as early as Day 2. After finding the downed line and heading down the path (headed toward cache 241), you will see a backpack hanging on a tree. Knock it down and grab the items in it. One of the items is a disposable camera. Use up the remaining pictures to unlock the achievement.
 
 ---
 
-![Love Turts](/cdn/achievements/loveturts.webp)
-
-Love Turts.
-
-Adopted a turtle as a pet.
+![Love Turts](/cdn/achievements/loveturts.webp) Love Turts: Adopted a turtle as a pet.
 
 - In Firewatch, turtles can be found in several locations throughout the wilderness. I listed a few of these locations below if you wish to find a turtle pet of your own. However, keep in mind that a turtle will not always be present at the locations listed below. These are just some of the common locations that players have found their own turtle companions. Once you find a turtle, make sure to report it to Delilah and adopt it to bring it with you.
-
-
 
 Thorofare Trail
 The first location you can check for a turtle is along the Thorofare Trail. Starting at the Two Forks Lookout tower, head southeast along a trail leading away from the bottom of the tower stairs. Before the trail curves to the left, look for an opening in the fence leading to another trail heading east. Continue down this trail.
@@ -99,10 +58,7 @@ During Day 2, you must travel north toward Beartooth Point to inspect a communic
 
 ---
 
-![The Life and Times of Raccoon Carter](/cdn/achievements/thelifeandtimesofraccooncarter.webp)
-
-The Life and Times of Raccoon Carter.
-Got attacked by a raccoon; probably didn't get rabies.
+![The Life and Times of Raccoon Carter](/cdn/achievements/thelifeandtimesofraccooncarter.webp) The Life and Times of Raccoon Carter: Got attacked by a raccoon; probably didn't get rabies.
 
 - Start a free roam game and go to the location marked on the map. Enter the cabin where the arrow is pointing and go down the stairs. Open the stove and a raccoon will jump out and the achievement will unlock.
 
@@ -121,11 +77,7 @@ Got attacked by a raccoon; probably didn't get rabies.
 
 ---
 
-![Bee Plot](/cdn/achievements/beeplot.webp)
-
-Bee Plot.
-
-Got stung by a bee. It happens.
+![Bee Plot](/cdn/achievements/beeplot.webp) Bee Plot: Got stung by a bee. It happens.
 
 
 
@@ -136,11 +88,7 @@ Go to the area marked on the map and open the gate. Directly in front of you is 
 
 ---
 
-![Ol' Shoshone](/cdn/achievements/olshoshone.webp)
-
-Ol' Shoshone.
-
-Listened to the tape of "Ol' Shoshone." Cavorted among the aspens.
+![Ol' Shoshone](/cdn/achievements/olshoshone.webp)Ol' Shoshone: Listened to the tape of "Ol' Shoshone." Cavorted among the aspens.
 
 
 
