@@ -13,10 +13,9 @@
 ---
  
 ## Planned things.
-### Moved to https://github.com/orgs/ProjectFirewatch/projects/1
+### Moved to: https://github.com/orgs/ProjectFirewatch/projects/1
 
 ---
  
 # Contributors!
-### Moved to.
-### https://projectfirewatch.com/info/project/contributors/
+### Moved to: https://projectfirewatch.com/info/project/contributors/
