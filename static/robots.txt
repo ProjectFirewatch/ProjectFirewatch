@@ -1,0 +1,6 @@
+
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://projectfirewatch.com/sitemap.xml
+

@@ -6,6 +6,8 @@ title: "Project Info"
 
 ### [Contributors](/info/project/contributors)
 
+### [Contributor Covenant Code of Conduct](/info/project/codeofconduct)
+
 ### [Thank you](/info/project/thanks)
 
 ### [Change Log](/info/project/changelog)

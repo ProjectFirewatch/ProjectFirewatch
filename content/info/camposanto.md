@@ -3,7 +3,7 @@ date: "06-07-2021"
 title: "Campo Santo"
 ---
 
-![Campo Santo Logo](/cdn/info/camposanto/logo.webp)
+![Campo Santo Logo](/cdn/info/camposanto/logo.svg)
 
 ---
  
