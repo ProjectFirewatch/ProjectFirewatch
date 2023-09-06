@@ -2,10 +2,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
   {{ hugo.Generator }}
   <link rel="canonical" href="{{ .Permalink }}" />
-
   {{ if .IsHome }}
     {{ with .Site.Params.homeMetaContent }}
       <meta name="description" content="{{ . | plainify }}">
@@ -15,7 +13,6 @@
       | default .Title }}
     <meta name="description" content="{{ $summary }}">
   {{ end }}
-
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | absURL }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | absURL }}"> 
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | absURL }}"> 
@@ -23,14 +20,12 @@
   <link rel="mask-icon" href="{{ "safari-pinned-tab.svg" | absURL }}" color="#ffa500"> 
   <meta name="msapplication-TileColor" content="#ffa500">
   <meta name="theme-color" content="#ffa500">
-
   <style>
     body {
       visibility: hidden;
       opacity: 0;
     }
   </style>
-
   <style id="darkTheme">
     .intro-and-nav{
       z-index: 100;
@@ -39,17 +34,17 @@
       height: 60px;
       width: 100%;
       position: fixed;
-      background:#353535;
+      background:var(--background);
       border-bottom: 4px solid #434343;
       box-shadow: 0 1px 3px rgba(0,0,0,.25);
       color:#E1D9D1;
   }
     .main-and-footer {
-      background: linear-gradient(#2a2a29,#1c1c1c);
-      color: #E1D9D1
+      background: var(--background-gradient);
+      color: var(--text-color);
     }
     .main-and-footer a{
-      color: #ffa500
+      color: var(--href);
     }
     * {
       background-color: inherit
