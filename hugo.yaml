@@ -68,6 +68,9 @@ menu:
     - name: Cassette Locations
       url: /cassettelocations/
       weight: 4   
+    - name: Can you catch the first flight in time?
+      url: /catchthefirstflightintime/
+      weight: 5   
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:

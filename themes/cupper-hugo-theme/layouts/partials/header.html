@@ -9,7 +9,7 @@
         {{ with .Site.Params.navTitleText }}
           <h1>{{ . }}</h1>
         {{ else }}
-          <img id="logo" src="{{ .Site.Params.logo | default "/images/logo.svg" | relURL }}" alt="{{ .Site.Params.logoAlt | default "Logo" }}">
+          <img loading="eager" id="logo" src="{{ .Site.Params.logo | default "/images/logo.svg" | relURL }}" alt="{{ .Site.Params.logoAlt | default "Logo" }}">
         {{ end }}
       </a>
       <p class="library-desc">

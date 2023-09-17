@@ -188,6 +188,7 @@ pre,
 code {
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
     font-size: 0.85em;
+    background-color: #343434;
 }
 
 .cmd {
@@ -548,6 +549,9 @@ caption {
 .patterns-list {
     list-style: none;
     margin-left: 0;
+}
+#patterns-list {
+    position:absolute;
 }
 
 .patterns-list h2 {
@@ -1146,6 +1150,7 @@ h1 svg {
     [aria-expanded="true"]+#patterns-list {
         display: block;
         border-color: transparent;
+        position: static;
     }
 
     code {

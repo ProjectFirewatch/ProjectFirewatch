@@ -2,19 +2,17 @@
 date: "06-03-2021"
 title: "Achievements"
 ---
-<style>#main p img{vertical-align:middle;}</style>
+<style>#main p img{vertical-align:middle; padding-right:5px}</style>
 
 # Standard Achievements
 
 ![Good First Day](/cdn/achievements/goodday.webp) Good first day: Completed Day 1
-
 
 ![Back to work](/cdn/achievements/backtowork.webp) Back to work: Completed Day 2
 
 ![Someone's out here.](/cdn/achievements/someonesouthere.webp) Someone's out here: Completed Day 76
 
 ![Burn the place down.](/cdn/achievements/burntheplacedown.webp) Burn the place down: Completed Day 77
-
 
 ![Firewatch](/cdn/achievements/firewatch.webp) Firewatch: Completed Day 79
 
@@ -62,15 +60,9 @@ During Day 2, you must travel north toward Beartooth Point to inspect a communic
 
 - Start a free roam game and go to the location marked on the map. Enter the cabin where the arrow is pointing and go down the stairs. Open the stove and a raccoon will jump out and the achievement will unlock.
 
-
-
 ![Map 1](/cdn/achievements/2438900192_preview_UhPAbZJ.webp)
 
-
-
 - This can be completed as early as Day 76. When you start Day 76, head north toward Beartooth Point. About halfway there (between the words "Thorofare Trail" and "Telephone"), the trail splits once and then again. After the split, look for an old outhouse that is falling apart (it contains the lyrics to Ol' Shoshone inside). From the outhouse, head east and look for an old cabin that is falling apart. Inside, go into the basement and open the stove. A raccoon should jump out and the achievement will unlock.
-
-
 
 ![Map 2](/cdn/achievements/2438900192_preview_4208-001.webp)
 ![Raccoon](/cdn/achievements/2438900192_preview_racoon.webp)
@@ -78,8 +70,6 @@ During Day 2, you must travel north toward Beartooth Point to inspect a communic
 ---
 
 ![Bee Plot](/cdn/achievements/beeplot.webp) Bee Plot: Got stung by a bee. It happens.
-
-
 
 - Start a free roam game and make sure you bring your climbing gear and the axe with you.
 Go to the area marked on the map and open the gate. Directly in front of you is a small box thing you can open. Open it and a bee will fly out and sting you and the achievement will unlock.
@@ -90,8 +80,6 @@ Go to the area marked on the map and open the gate. Directly in front of you is 
 
 ![Ol' Shoshone](/cdn/achievements/olshoshone.webp)Ol' Shoshone: Listened to the tape of "Ol' Shoshone." Cavorted among the aspens.
 
-
-
 - Start a free roam game. Make sure you take the axe with you from the lookout.
 Go to the area marked on the map and clear out the bushes where the arrow is pointing. Continue through and you will see a chair and a bunch of junk. Pick up the tape and the achievement should pop.
 
@@ -101,7 +89,7 @@ Go to the area marked on the map and clear out the bushes where the arrow is poi
 
 # Credits
 
-[Guide By TORGADDON](https://steamcommunity.com/sharedfiles/filedetails/?id=2438900192)
+Guide By [Talk Show Host](https://steamcommunity.com/sharedfiles/filedetails/?id=861640643)
 
 [truesteamachievements.com](https://truesteamachievements.com/)
 

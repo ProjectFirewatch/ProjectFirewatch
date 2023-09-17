@@ -6,14 +6,13 @@ title: "Deadwood Lookout Photos (IRL)"
 
 ---
 
-<p><img loading="lazy" src="./i/lookoutsign.webp" alt="0"></p>
+![No image description](./i/lookoutsign.webp)
 
-<p><img loading="lazy" src="./i/lookoutday.webp" alt="0"></p>
+![No image description](./i/lookoutday.webp)
 
-<p><img loading="lazy" src="./i/lookoutnight.webp" alt="0"></p>
+![No image description](./i/lookoutnight.webp)
 
-<p><img loading="lazy" src="./i/lookoutinside.webp" alt="0"></p>
-
+![No image description](./i/lookoutinside.webp)
 
 ---
 
