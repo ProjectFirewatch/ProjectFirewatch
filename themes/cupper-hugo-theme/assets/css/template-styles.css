@@ -286,7 +286,6 @@ button {
     box-shadow: none !important;
     background: #111 !important;
     color: var(--text-color);
-     !important;
     position: absolute !important;
     right: 0 !important;
     bottom: 0 !important;
