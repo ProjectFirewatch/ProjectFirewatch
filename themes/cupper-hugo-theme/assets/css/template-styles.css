@@ -399,6 +399,7 @@ caption {
     top: 0;
     left: 0;
     border-right: 2px solid;
+    overflow: auto;
 }
 
 .intro-and-nav>div {
