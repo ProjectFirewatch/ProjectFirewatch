@@ -1,6 +1,7 @@
 ---
 date: "09-05-2023"
 title: "Cassette Locations"
+usetwemoji: true
 ---
 
 ## Introduction

@@ -1,8 +1,6 @@
 {{ $templateDomScripts := resources.Get "js/template-dom-scripts.js" }}
-<script src="https://cdn.jsdelivr.net/npm/twemoji/dist/twemoji.min.js" crossorigin="anonymous"></script>{{ $domScripts := $templateDomScripts | resources.ExecuteAsTemplate "js/dom-scripts.js" . }}
+{{ $domScripts := $templateDomScripts | resources.ExecuteAsTemplate "js/dom-scripts.js" . }}
 <script src="{{ $domScripts.RelPermalink }}"></script>  
-
-<script src="{{ "js/prism.js" | relURL }}"></script>
 
 {{ if site.Params.search }}
 {{ $searchJs := resources.Get "js/search.js" | fingerprint }}
@@ -14,7 +12,7 @@
 {{ range .Site.Params.customJs }}
   <script src="{{ . | relURL }}"></script>
 {{ end }}
-
-<script>
-  twemoji.parse(document.body)
-</script>
+{{ if eq .Params.usetwemoji true }}
+<script src="https://cdn.jsdelivr.net/npm/twemoji/dist/twemoji.min.js" crossorigin="anonymous"></script>
+<script>twemoji.parse(document.body)</script>
+{{ end }}
