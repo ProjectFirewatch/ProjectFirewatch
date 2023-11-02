@@ -7,7 +7,12 @@ on:
   schedule:
       - cron: '15 1 * * *' # 01:15 UTC daily
   pull_request:
+  
   workflow_dispatch:
+  permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build:
