@@ -20,7 +20,7 @@ imaging:
   quality: 99
 
 params:
-  description: The <a href="https://github.com/ProjectFirewatch/ProjectFirewatch">Opensource</a> Deep Dive Into The Game Firewatch. <br>  <img id="clickaroos" alt="Clickaroos" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSophiaAtkinson%2FFirewatch-Guide&count_bg=%231C1C1C&title_bg=%231C1C1C&icon=&icon_color=%23E7E7E7&title=Clickaroos&edge_flat=true">
+  description: The <a href="https://github.com/ProjectFirewatch/ProjectFirewatch">Opensource</a> Deep Dive Into The Game Firewatch.
   homeMetaContent: The Opensource Deep Dive Into The Game Firewatch.
   footer: <hr><h6><i>projectfirewatch.com is a community website and is <strong>NOT</strong> affiliated with Firewatch or Campo Santo.<br>Firewatch and the Firewatch logos are trademarks of Campo Santo. All other trademarks are property of their respective owners.</i></h6>
   # For more date formats see https://gohugo.io/functions/format/
