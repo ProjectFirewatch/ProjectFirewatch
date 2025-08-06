@@ -10,7 +10,7 @@ enableGitInfo: false
 toc: false
 
 permalinks:
-  post: /:filename/
+  post: /:contentbasename/
 
 disableKinds:
 - taxonomy
