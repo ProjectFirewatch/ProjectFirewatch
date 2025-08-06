@@ -1,5 +1,5 @@
 ---
-date: "06-11-2021"
+date: 2021-06-11
 title: "Thank You"
 ---
 

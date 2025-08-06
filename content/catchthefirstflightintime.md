@@ -1,5 +1,5 @@
 ---
-date: "09-16-2023"
+date: 2023-09-16
 title: "Can you catch the first flight in time?"
 ---
 

@@ -1,5 +1,5 @@
 ---
-date: "07-10-2021"
+date: 2021-07-10
 title: "Playthrough"
 ---
 <script src="/js/youtube.js"></script>

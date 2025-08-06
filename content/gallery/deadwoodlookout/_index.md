@@ -1,5 +1,5 @@
 ---
-date: "08-08-2021"
+date: 2021-08-08
 title: "Deadwood Lookout Photos (IRL)"
 ---
 # Deadwood lookout in the Boise National Forest

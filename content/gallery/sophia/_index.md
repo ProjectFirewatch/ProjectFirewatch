@@ -1,5 +1,5 @@
 ---
-date: "07-02-2021"
+date: 2021-07-02
 title: "Sophia Atkinson Firewatch Photos"
 ---
 

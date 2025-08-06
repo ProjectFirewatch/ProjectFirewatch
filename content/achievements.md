@@ -1,5 +1,5 @@
 ---
-date: "06-03-2021"
+date: 2021-06-03
 title: "Achievements"
 ---
 <style>#main p img{vertical-align:middle; padding-right:5px}</style>

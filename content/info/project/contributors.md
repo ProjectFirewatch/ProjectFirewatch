@@ -1,5 +1,5 @@
 ---
-date: "09-04-2023"
+date: 2023-09-04
 title: "Contributors"
 ---
 # Project Contributors

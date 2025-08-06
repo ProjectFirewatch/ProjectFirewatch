@@ -1,5 +1,5 @@
 ---
-date: "07-07-2021"
+date: 2021-07-07
 title: "Shoshone Book Club"
 ---
  

@@ -1,5 +1,5 @@
 ---
-date: "06-03-2021"
+date: 2021-06-03
 title: "Shoshone Wildlife Notes"
 ---
 

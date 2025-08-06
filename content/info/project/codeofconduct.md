@@ -1,5 +1,5 @@
 ---
-date: "12-09-2021"
+date: 2021-12-09
 title: "Contributor Covenant Code of Conduct"
 ---
 ## Our Pledge
