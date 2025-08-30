@@ -66,5 +66,6 @@
   {{ if .IsHome }}
     {{ $title = .Site.Title }}
   {{ end }}
+  {{ partial "matomo-analytics.html" . }}
   <title>{{ $title }}</title>
 </head>

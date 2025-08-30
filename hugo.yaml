@@ -38,6 +38,11 @@ params:
     issueTerm: title
     theme: github-light
 
+  matomo:
+    url: "//analytics.satki.net/"
+    siteID: "3"
+    doNotTrack: true
+
 menu:
   nav:
     - name: Home

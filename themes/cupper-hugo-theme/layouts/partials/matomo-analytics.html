@@ -1,0 +1,28 @@
+<!-- Matomo Tracking -->
+{{- $matomoURL := site.Params.matomo.url | default "//analytics.satki.net/" -}}
+{{- $matomoSiteID := site.Params.matomo.siteID | default "1" -}}
+{{- $matomoDNT := site.Params.matomo.doNotTrack | default true -}}
+
+<script>
+  var _paq = window._paq = window._paq || [];
+  {{ if $matomoDNT }}
+    _paq.push(["setDoNotTrack", true]);
+  {{ end }}
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="{{ $matomoURL }}";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '{{ $matomoSiteID }}']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript>
+  <p>
+    <img referrerpolicy="no-referrer-when-downgrade" 
+         src="{{ $matomoURL }}matomo.php?idsite={{ $matomoSiteID }}&amp;rec=1" 
+         style="border:0;width:0;height:0;" alt="" />
+  </p>
+</noscript>
+<!-- End Matomo Tracking -->
